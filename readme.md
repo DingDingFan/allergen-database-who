@@ -1,4 +1,4 @@
-# allergenonline 
+# Allergen online database
 ## Introduction
 
 Database for allergen amino acid sequences download from http://www.allergenonline.org 2020.5.25;
