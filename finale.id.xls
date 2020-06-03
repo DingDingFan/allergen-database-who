@@ -1,0 +1,915 @@
+unipro	seqid	order	sp	name		ncbi	ncbi.protein	unipro
+B0KZJ6	1	Astigmata	Acarus siro	Aca s 13	Fatty acid-binding protein	DQ979802.1	ABL09307.1	B0KZJ6
+P85204	2	Ericales	Actinidia chinensis	Act c 10	nsLTP1		P85204	P85204
+P85261	3	Ericales	Actinidia chinensis	Act c 5	Kiwellin		P85261.1	P85261
+D1YSM4	4	Ericales	Actinidia chinensis	Act c 8	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	AM489567.1	CAM31908.1	D1YSM4
+P00785	5	Ericales	Actinidia deliciosa	Act d 1	Cysteine protease (actinidin)	X16466	CAA34486	P00785
+P86137	6	Ericales	Actinidia deliciosa	Act d 10	nsLTP1		P86137	P86137
+P85524	7	Ericales	Actinidia deliciosa	Act d 11	"Major latex protein/ripening-related protein (MLP/RRP), Bet v 1 family member"		P85524	P85524
+P81370	8	Ericales	Actinidia deliciosa	Act d 2	Thaumatin-like protein	AJ871175	CAI38795	P81370
+P85063	9	Ericales	Actinidia deliciosa	Act d 3			P85063	P85063
+Q6TPK4	10	Ericales	Actinidia deliciosa	Act d 4	Phytocystatin	AY390352	AAR92223	Q6TPK4
+P84527	11	Ericales	Actinidia deliciosa	Act d 5	Kiwellin		P84527	P84527
+P83326	12	Ericales	Actinidia deliciosa	Act d 6	Pectin methylesterase inhibitor	AB091088.1	BAC54964	P83326
+P85076	13	Ericales	Actinidia deliciosa	Act d 7	Pectin methylesterase		P85076	P85076
+D1YSM5	14	Ericales	Actinidia deliciosa	Act d 8	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	AM489568	CAM31909	D1YSM5
+C0HL99	15	Ericales	Actinidia deliciosa	Act d 9	Profilin	FG438715	C0HL99	C0HL99
+P50635	16	Diptera	Aedes aegypti	Aed a 1	Apyrase	L12389	AAC37218	P50635
+P18153	17	Diptera	Aedes aegypti	Aed a 2	Salivary D7 protein	M33156	AAA29347	P18153
+O01949	18	Diptera	Aedes aegypti	Aed a 3	Undefined 30 kDa salivary protein	AF001927	AAB58417	O01949
+P38948	19	Fagales	Alnus glutinosa	Aln g 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	S50892	AAB24432	P38948
+O81701	20	Fagales	Alnus glutinosa	Aln g 4	Polcalcin	Y17713	CAA76831	O81701
+P79085	21	Pleosporales	Alternaria alternata	Alt a 1		U82633	AAB40400	P79085
+P42041	22	Pleosporales	Alternaria alternata	Alt a 10	Aldehyde dehydrogenase	X78227	CAA55071	P42041
+P49148	23	Pleosporales	Alternaria alternata	Alt a 12	Acid ribosomal protein P1	X84216	CAA58998	P49148
+Q6R4B4	24	Pleosporales	Alternaria alternata	Alt a 13	Glutathione-S-transferase	AY514673	AAR98813	Q6R4B4
+P78983	25	Pleosporales	Alternaria alternata	Alt a 3	Heat shock protein 70	U87807	AAB48042	P78983
+Q00002	26	Pleosporales	Alternaria alternata	Alt a 4	Disulfide isomerase	X84217	CAA58999	Q00002
+P42037	27	Pleosporales	Alternaria alternata	Alt a 5	Ribosomal protein P2	X78222	CAA55066	P42037
+Q9HDT3	28	Pleosporales	Alternaria alternata	Alt a 6	Enolase	U82437	AAG42022	Q9HDT3
+P42058	29	Pleosporales	Alternaria alternata	Alt a 7	YCP4 protein	X78225	CAA55069	P42058
+P0C0Y4	30	Pleosporales	Alternaria alternata	Alt a 8	Mannitol dehydrogenase	AY191815	AAO91800	P0C0Y4
+C3W2Q7	31	Caryophyllales	Amaranthus retroflexus	Ama r 2	Profilin	FJ899746	ACP43298	C3W2Q7
+P27759	32	Asterales	Ambrosia artemisiifolia	Amb a 1	Pectate lyase	M80558	AAA32665	P27759
+Q2KN25	33	Asterales	Ambrosia artemisiifolia	Amb a 10	Polcalcin-like protein (4 EF-hands)	AY894659	AAX77686	Q2KN25
+P00304	35	Asterales	Ambrosia artemisiifolia	Amb a 3	Plastocyanine		P00304	P00304
+P02878	36	Asterales	Ambrosia artemisiifolia	Amb a 5			P02878	P02878
+O04004	37	Asterales	Ambrosia artemisiifolia	Amb a 6	Non-specific lipid transfer protein type 1	U89793	AAB51146	O04004
+Q2KN24	39	Asterales	Ambrosia artemisiifolia	Amb a 8	Profilin	AY894660	AAX77687	Q2KN24
+Q2KN27	40	Asterales	Ambrosia artemisiifolia	Amb a 9	Polcalcin	AY894657	AAX77684	Q2KN27
+P43174	41	Asterales	Ambrosia psilostachya	Amb p 5		L24465	AAA20065	P43174
+P10414	42	Asterales	Ambrosia trifida	Amb t 5		X56279	CAA39726	P10414
+Q94JN2	43	Bromeliales	Ananas comosus	Ana c 1	Profilin	AF377949	AAK54835	Q94JN2
+O23791	44	Bromeliales	Ananas comosus	Ana c 2	Bromelain	D14059	BAA21849	O23791
+Q8L5L5	45	Sapindales	Anacardium occidentale	Ana o 1	Vicilin-like protein	AF395894	AAM73730	Q8L5L5
+Q8GZP6	46	Sapindales	Anacardium occidentale	Ana o 2	Legumin-like protein	AF453947	AAN76862	Q8GZP6
+Q8H2B8	47	Sapindales	Anacardium occidentale	Ana o 3	2S albumin	AY081853	AAL91665	Q8H2B8
+Q7Z1K3	48	Ascaridida	Anisakis simplex	Ani s 1	"unknown function, similar to Kunitz serine protease inhibitors"	AB100095	BAC77154	Q7Z1K3
+Q9NJA9	49	Ascaridida	Anisakis simplex	Ani s 2	Paramyosin	AF173004	AAF72796	Q9NJA9
+Q9NAS5	50	Ascaridida	Anisakis simplex	Ani s 3	Tropomyosin	Y19221	CAB93501	Q9NAS5
+Q14QT4	51	Ascaridida	Anisakis simplex	Ani s 4	Cysteine protease inhibitor	AM279414	CAK50389	Q14QT4
+A1IKL2	52	Ascaridida	Anisakis simplex	Ani s 5	SXP/RAL-2 family protein	AB274998	BAF43534	A1IKL2
+A1IKL3	53	Ascaridida	Anisakis simplex	Ani s 6	Serine protease inhibitor	AB274999	BAF43535	A1IKL3
+A9XBJ8	54	Ascaridida	Anisakis simplex	Ani s 7		EF158010	ABL77410	A9XBJ8
+A7M6Q6	55	Ascaridida	Anisakis simplex	Ani s 8	SXP/RAL-2 family protein	AB300625	BAF75681	A7M6Q6
+B2XCP1	56	Ascaridida	Anisakis simplex	Ani s 9	SXP/RAL-2 family protein	EU074790	ABV55106	B2XCP1
+Q7M1X6	57	Poales	Anthoxanthum odoratum	Ant o 1	Beta-expansin		 Q7M1X6	Q7M1X6
+Q9BMK4	58	Hymenoptera	Apis cerana	Api c 1	Phospholipase A2	AF321087	AAK09361	Q9BMK4
+Q7M4I5	59	Hymenoptera	Apis dorsata	Api d 1	Phospholipase A2		Q7M4I5	Q7M4I5
+P49372	60	Apiales	Apium graveolens	Api g 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	Z48967	CAA88831	P49372
+E6Y8S8	61	Apiales	Apium graveolens	Api g 2	"Non-specific lipid-transfer protein, type 1"	FJ643539	ACV04796	E6Y8S8
+P92919	62	Apiales	Apium graveolens	Api g 3	"Chlorophyll a-b binding protein, chloroplast"	Z75663	CAA99993	P92919
+Q9XF37	63	Apiales	Apium graveolens	Api g 4	Profilin	AF129423	AAD29409	Q9XF37
+P81943	64	Apiales	Apium graveolens	Api g 5	FAD-containing oxidase		P81943	P81943
+P00630	65	Hymenoptera	Apis mellifera	Api m 1	Phospholipase A2	X16709	CAA34681	P00630
+ABF21078	66	Hymenoptera	Apis mellifera	Api m 10	"Icarapin variant 2, carbohydrate-rich protein"	DQ485319	ABF21078	Q1HHN7
+Q08169	67	Hymenoptera	Apis mellifera	Api m 2	Hyaluronidase	L10710	AAA27730	Q08169
+AAY57281	68	Hymenoptera	Apis mellifera	Api m 3	Acid phosphatase	DQ058012	AAY57281	Q4TUB9
+P01501	69	Hymenoptera	Apis mellifera	Api m 4	Melittin	X02007	CAA26038	P01501
+B2D0J4	70	Hymenoptera	Apis mellifera	Api m 5	Dipeptidylpeptidase IV	 NM_001126243	NP_001119715	B2D0J4
+NP_001035360	71	Hymenoptera	Apis mellifera	Api m 6		NM_001040270	NP_001035360	Q27SJ8
+Q8MQS8	72	Hymenoptera	Apis mellifera	Api m 7	CUB serine protease	AY127579	AAN02286	Q8MQS8
+B2D0J5	73	Hymenoptera	Apis mellifera	Api m 8	Carboxylesterase	EU564833	ACB70231	B2D0J5
+C9WMM5	74	Hymenoptera	Apis mellifera	Api m 9	Serine carboxypeptidase	FJ765738	ACN71203	C9WMM5
+P43238	75	Fabales	Arachis hypogaea	Ara h 1	"Cupin (Vicillin-type, 7S globulin)"	L34402	AAB00861	P43238
+Q647G5	76	Fabales	Arachis hypogaea	Ara h 10	oleosin	AY722694	AAU21499	Q647G5
+Q45W87	77	Fabales	Arachis hypogaea	Ara h 11	oleosin	DQ097716	AAZ20276	Q45W87
+AAK96887	78	Fabales	Arachis hypogaea	Ara h 2	Conglutin (2S albumin)	AY007229	AAK96887	
+O82580	79	Fabales	Arachis hypogaea	Ara h 3	"Cupin (Legumin-type, 11S globulin, Glycinin)"	AF093541	AAC63045	O82580
+Q9SQI9	81	Fabales	Arachis hypogaea	Ara h 5	Profilin	AF059616	AAD55587	Q9SQI9
+Q647G9	82	Fabales	Arachis hypogaea	Ara h 6	Conglutin (2S albumin)	AF092846	AAD56337	Q647G9
+Q9SQH1	83	Fabales	Arachis hypogaea	Ara h 7	Conglutin (2S albumin)	AF091737	AAD56719	Q9SQH1
+Q6VT83	84	Fabales	Arachis hypogaea	Ara h 8	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	AY328088	AAQ91847	Q6VT83
+B6CEX8	85	Fabales	Arachis hypogaea	Ara h 9	Nonspecific lipid-transfer protein type 1	EU159429	ABX56711	B6CEX8
+Q8T5G9	86	Decapoda	Archaeopotamobius sibiriensis	Arc s 8	Triosephosphate isomerase	AJ439988	CAD29196	Q8T5G9
+Q5GQ85	87	Ixodida	Argas reflexus	Arg r 1		AJ697694	CAG26895	Q5GQ85
+A7L499	88	Anostraca	Artemia franciscana	Art fr 5	"Myosin, light chain 1"	EF660909	ABS19977	A7L499
+Q84ZX5	89	Asterales	Artemisia vulgaris	Art v 1	Defensin-like protein linked to polyproline-rich region	AF493943	AAO24900	Q84ZX5
+A6GVD5	90	Asterales	Artemisia vulgaris	Art v 2	Pathogenesis-related protein PR-1	AM279693	CAK50834	A6GVD5
+P0C088	91	Asterales	Artemisia vulgaris	Art v 3	Non-specific lipid transfer protein type 1		P0C088	P0C088
+Q8H2C9	92	Asterales	Artemisia vulgaris	Art v 4	Profilin	AJ421030	CAD12861	Q8H2C9
+A0PJ17	93	Asterales	Artemisia vulgaris	Art v 5	Polcalcin	AY904434	AAX85389	A0PJ17
+A0PJ16	94	Asterales	Artemisia vulgaris	Art v 6	Pectate lyase	AY904433	AAX85388	A0PJ16
+C0L3K2	95	Ascaridida	Ascaris lumbricoides	Asc l 3	Tropomyosin	FJ655903	ACN32322	C0L3K2
+Q06811	96	Ascaridida	Ascaris suum	Asc s 1		AF051702	AAC06015	Q06811
+P67875	97	Eurotiales	Aspergillus fumigatus	Asp f 1	Mitogillin family	M83781	AAB07779	P67875
+CAA59419	98	Eurotiales	Aspergillus fumigatus	Asp f 10	Aspartate protease	X85092	CAA59419	Q12547
+Q9Y7F6	99	Eurotiales	Aspergillus fumigatus	Asp f 11	Peptidyl-prolyl isomerase	AJ006689	CAB44442	Q9Y7F6
+P40292	100	Eurotiales	Aspergillus fumigatus	Asp f 12	Heat shock protein P90	U92465	AAB51544	P40292
+P28296	101	Eurotiales	Aspergillus fumigatus	Asp f 13	Alkaline serine protease	Z11580	CAA77666	P28296
+O60022	102	Eurotiales	Aspergillus fumigatus	Asp f 15		AJ002026	CAA05149	O60022
+AAC61261	103	Eurotiales	Aspergillus fumigatus	Asp f 16		AF062651	AAC61261	O74682
+O60025	104	Eurotiales	Aspergillus fumigatus	Asp f 17		AJ224865	CAA12162	O60025
+P87184	105	Eurotiales	Aspergillus fumigatus	Asp f 18	Vacuolar serine protease	Y13338	CAA73782	P87184
+P79017	106	Eurotiales	Aspergillus fumigatus	Asp f 2		U56938	AAC69357	P79017
+Q96X30	107	Eurotiales	Aspergillus fumigatus	Asp f 22	Enolase	AF284645	AAK49451	Q96X30
+Q8NKF4	108	Eurotiales	Aspergillus fumigatus	Asp f 23	L3 ribosomal protein	AF464911	AAM43909	Q8NKF4
+Q4WWX5	109	Eurotiales	Aspergillus fumigatus	Asp f 27	Cyclophilin	AJ937743	CAI78448	Q4WWX5
+Q1RQJ1	110	Eurotiales	Aspergillus fumigatus	Asp f 28	Thioredoxin	AJ937744	CAI78449	Q1RQJ1
+Q4WV97	111	Eurotiales	Aspergillus fumigatus	Asp f 29	Thioredoxin	AJ937745	CAI78450	Q4WV97
+O43099	112	Eurotiales	Aspergillus fumigatus	Asp f 3	Peroxysomal protein	U58050	AAB95638	O43099
+A4FSH5	113	Eurotiales	Aspergillus fumigatus	Asp f 34	PhiA cell wall protein	AM496018	CAM54066	A4FSH5
+O60024	114	Eurotiales	Aspergillus fumigatus	Asp f 4		AJ001732	CAA04959	O60024
+P46075	115	Eurotiales	Aspergillus fumigatus	Asp f 5	Metalloprotease	Z30424	CAA83015	P46075
+Q92450	116	Eurotiales	Aspergillus fumigatus	Asp f 6	Mn superoxide dismutase	U53561	AAB60779	Q92450
+O42799	117	Eurotiales	Aspergillus fumigatus	Asp f 7		AJ223315	CAA11255	O42799
+Q9UUZ6	118	Eurotiales	Aspergillus fumigatus	Asp f 8	Ribosomal protein P2	AJ224333	CAB64688	Q9UUZ6
+CAA11266	119	Eurotiales	Aspergillus fumigatus	Asp f 9		AJ223327	CAA11266	O42800
+AAD13106	121	Eurotiales	Aspergillus niger	Asp n 14	Beta-xylosidase	AF108944	AAD13106	O93933
+P34754	123	Eurotiales	Aspergillus niger	Asp n 25	3-phytase B	L20567	AAA02934	P34754
+P12547	124	Eurotiales	Aspergillus oryzae	Asp o 13	Alkaline serine protease	X17561	CAA35594	P12547
+AAA32708	125	Eurotiales	Aspergillus oryzae	Asp o 21	TAKA-amylase A	M33218	AAA32708	P10529
+P04403	127	Ericales	Bertholletia excelsa	Ber e 1	2S sulfur-rich seed storage albumin	M17146	AAA33010	P04403
+Q84ND2	128	Ericales	Bertholletia excelsa	Ber e 2	11S globulin seed storage protein	AY221641	AAO38859	Q84ND2
+P15494	129	Fagales	Betula verrucosa (Betula pendula)	Bet v 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	X15877	CAA33887	P15494
+P25816	130	Fagales	Betula verrucosa (Betula pendula)	Bet v 2	Profilin	M65179	AAA16522	P25816
+P43187	131	Fagales	Betula verrucosa (Betula pendula)	Bet v 3	Polcalcin-like protein (4 EF-hand)	X79267	CAA55854	P43187
+Q39419	132	Fagales	Betula verrucosa (Betula pendula)	Bet v 4	Polcalcin	X87153	CAA60628	Q39419
+AAC05116	133	Fagales	Betula verrucosa (Betula pendula)	Bet v 6	PhenylCoumaran benzylic ether reductase	AF135127	AAC05116	O65002
+P81531	134	Fagales	Betula verrucosa (Betula pendula)	Bet v 7	Cyclophilin	AJ311666	CAC84116	P81531
+P85983	135	Caryophyllales	Beta vulgaris	Beta v 1	Che a 1/Ole e 1 homolgue		P85983	P85983
+P85984	136	Caryophyllales	Beta vulgaris	Beta v 2	"Profilin, pollen"		P85984	P85984
+Q9UAM5	137	Blattodea	Blattella germanica	Bla g 1	"Major allergen Bla g 1.0101, nitrile specifier, microvilli-like protein with unknown function"	AF072219	AAD13530	Q9UAM5
+P54958	138	Blattodea	Blattella germanica	Bla g 2	inactive aspartic protease	U28863	AAA86744	P54958
+P54962	139	Blattodea	Blattella germanica	Bla g 4	"Calycin, lipocalin"	U40767	AAA87851	P54962
+O18598	140	Blattodea	Blattella germanica	Bla g 5	Glutathione S-transferase	U92412	AAB72147	O18598
+Q1A7B3	141	Blattodea	Blattella germanica	Bla g 6	Troponin C	DQ279092	ABB89296	Q1A7B3
+Q9NG56	142	Blattodea	Blattella germanica	Bla g 7	Tropomyosin	AF260897	AAF72534	Q9NG56
+A0ERA8	143	Blattodea	Blattella germanica	Bla g 8	"Myosin, light chain"	DQ389157	ABD47458	A0ERA8
+Q95PJ4	144	Astigmata	Blomia tropicalis	Blo t 1	Cysteine protease	AF277840	AAK58415	Q95PJ4
+A7XZI4	145	Astigmata	Blomia tropicalis	Blo t 10	Tropomyosin	EU106615	ABU97466	A7XZI4
+Q8MUF6	146	Astigmata	Blomia tropicalis	Blo t 11	Paramyosin	AF525465	AAM83103	Q8MUF6
+Q17282	147	Astigmata	Blomia tropicalis	Blo t 12		U27479	AAA78904	Q17282
+Q17284	148	Astigmata	Blomia tropicalis	Blo t 13	Fatty acid-binding protein	U58106	AAC80579	Q17284
+W5RZ24	149	Astigmata	Blomia tropicalis	Blo t 19	Anti-microbial peptide homologue	KF771884	AHG97583	W5RZ24
+Q1M2P1	150	Astigmata	Blomia tropicalis	Blo t 2	ML-domain protein	AY288141	AAQ73483	Q1M2P1
+A7IZE9	151	Astigmata	Blomia tropicalis	Blo t 21		AY800348	AAX34047	A7IZE9
+Q8I916	152	Astigmata	Blomia tropicalis	Blo t 3	Trypsin	AY090091	AAM10779	Q8I916
+A1KXI2	153	Astigmata	Blomia tropicalis	Blo t 4	Alpha-amylase	AY291324	AAQ24543	A1KXI2
+O96870	154	Astigmata	Blomia tropicalis	Blo t 5		U59102	AAD10850	O96870
+A1KXI3	155	Astigmata	Blomia tropicalis	Blo t 6	Chymotrypsin	AY291325	AAQ24544	A1KXI3
+Q7M4I6	156	Hymenoptera	Bombus pennsylvanicus	Bom p 1	Phospholipase A2		Q7M4I6	Q7M4I6
+Q7M4I3	157	Hymenoptera	Bombus pennsylvanicus	Bom p 4	Protease		Q7M4I3	Q7M4I3
+P82971	158	Hymenoptera	Bombus terrestris	Bom t 1	Phospholipase A2		P82971	P82971
+P0CH88	159	Hymenoptera	Bombus terrestris	Bom t 4	Protease		P0CH88	P0CH88
+Q28133	160	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 2	Lipocalin	L42867	AAB08720	Q28133
+Q28050	161	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 3	S100 calcium-binding protein A7	L39834	AAA91101	Q28050
+P00711	162	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 4	Alpha-lactalbumin	M18780	AAA30615	P00711
+P02754	163	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 5	Beta-lactoglobulin	X14712	CAA32835	P02754
+P02769	164	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 6	Serum albumin	M73993	AAA51411	P02769
+P80207	167	Brassicales	Brassica juncea	Bra j 1	2S albumin seed storage protein		P80207	P80207
+P80208	168	Brassicales	Brassica napus	Bra n 1	2S albumin seed storage protein		P80208	P80208
+Q42473	170	Brassicales	Brassica rapa	Bra r 1	"2S albumin, napins"	X65969	CAA46782	Q42473
+P81729	171	Brassicales	Brassica rapa	Bra r 2	Prohevein homologue			P81729
+O18873	172	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 1	Lipocalin	AF027177	AAC48794	O18873
+O18874	173	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 2	Lipocalin	AF027178	AAC48795	O18874
+P49822	174	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 3	Serum albumin	AB090854	BAC10663	P49822
+D7PBH4	175	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 4	Lipocalin	GU132996	ACY38525	D7PBH4
+P09582	176	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 5	"Arginine esterase, prostatic kallikrein"	Y00751	CAA68720	P09582
+P43067	177	Saccharomycetales	Candida albicans	Cand a 1	Alcohol dehydrogenase	X81694	CAA57342	P43067
+Q6YK78	178	Saccharomycetales	Candida albicans	Cand a 3	Peroxysomal protein	AY136739	AAN11300	Q6YK78
+P14292	179	Saccharomycetales	Candida boidinii	Cand b 2	Peroxisomal membrane protein A	J04984	AAA34357	P14292
+Q9ARG0	180	Solanales	Capsicum annuum	Cap a 1	Osmotin-like protein (thaumatin-like protein)	AJ297410	CAC34055	Q9ARG0
+Q93YI9	181	Solanales	Capsicum annuum	Cap a 2	Profilin	AJ417552	CAD10376	Q93YI9
+P38949	182	Fagales	Carpinus betulus	Car b 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	X66932	CAA47366	P38949
+Q84XA9	183	Fagales	Carya illinoinensis	Car i 1	2S albumin seed storage protein	AY192569	AAO32314	Q84XA9
+B5KVH4	184	Fagales	Carya illinoinensis	Car i 4	Legumin seed storage protein	EU113051	ABW86978	B5KVH4
+B7TWE3	185	Fagales	Castanea sativa	Cas s 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	FJ390843	ACJ23861	B7TWE3
+Q42428	186	Fagales	Castanea sativa	Cas s 5	Chitinase	U48687 	AAB01895	Q42428
+Q39613	188	Gentianales	Catharanthus roseus	Cat r 1	Cyclophilin	X85185	CAA59468	Q39613
+P83507	189	Rodentia	Cavia porcellus	Cav p 1	Lipocalin		P83507	P83507
+P83508	190	Rodentia	Cavia porcellus	Cav p 2	Lipocalin	FN256284	CAX62129	P83508
+F0UZ12	191	Rodentia	Cavia porcellus	Cav p 3	Lipocalin	FN256285	CAX62130	F0UZ12
+Q9N2R3	192	Decapoda	Charybdis feriatus	Cha f 1	Tropomyosin	AF061783	AAF35431	Q9N2R3
+Q96385	193	Cupressales	Chamaecyparis obtusa	Cha o 1	Pectate lyase	D45404	BAA08246	Q96385
+Q7M1E7	194	Cupressales	Chamaecyparis obtusa	Cha o 2	Polygalacturonase		Q7M1E7	Q7M1E7
+Q8LGR0	195	Caryophyllales	Chenopodium album	Che a 1	Ole e 1 homologue	AY049012	AAL07319	Q8LGR0
+Q84V37	196	Caryophyllales	Chenopodium album	Che a 2	Profilin	AY082337	AAL92870	Q84V37
+Q84V36	197	Caryophyllales	Chenopodium album	Che a 3	Polcalcin	AY082338	AAL92871	Q84V36
+O96764	198	Diptera	Chironomus kiiensis	Chi k 10	Tropomyosin	AJ012184	CAA09938	O96764
+P02229	199	Diptera	Chironomus thummi thummi	Chi t 1	"Hemoglobin, component III/IV"	M17600	AAA28249	P02229
+P02221	200	Diptera	Chironomus thummi thummi	Chi t 2	"Hemoglobin, component I/IA"	U14627	AAA80189 	P02221
+P02222	201	Diptera	Chironomus thummi thummi	Chi t 3	"Hemoglobin, components II-beta, VI, VII, VIII, IX"	AF001292	AAB58932	P02222
+P02231	202	Diptera	Chironomus thummi thummi	Chi t 4	"Hemoglobin, component IIIA"		P02231	P02231
+P02228	207	Diptera	Chironomus thummi thummi	Chi t 9	"Hemoglobin, component X"		P02228	P02228
+P84160	208	Sapindales	Citrus limon	Cit l 3	Non-specific lipid-transfer protein type 1		P84160	P84160
+P84159	210	Sapindales	Citrus sinensis	Cit s 1	Germin-like protein		P84159	P84159
+P84177	211	Sapindales	Citrus sinensis	Cit s 2	Profilin	AJ865015	CAI23765 	P84177
+P84161	212	Sapindales	Citrus sinensis	Cit s 3	Non-specific lipid-transfer protein type 1		P84161	P84161
+B0L807	213	Capnodiales	Cladosporium cladosporioides	Cla c 9	Vacuolar serine protease	EF407520	ABQ59329	B0L807
+P40108	214	Capnodiales	Cladosporium herbarum	Cla h 10	Aldehyde dehydrogenase	X78228	CAA55072	P40108
+P50344	215	Capnodiales	Cladosporium herbarum	Cla h 12	Acid ribosomal protein P1	X85180	CAA59463	P50344
+P42039	217	Capnodiales	Cladosporium herbarum	Cla h 5	Acid ribosomal protein P2	X78223	CAA55067	P42039
+P42040	218	Capnodiales	Cladosporium herbarum	Cla h 6	Enolase	X78226	CAA55070	P42040
+P42059	219	Capnodiales	Cladosporium herbarum	Cla h 7	YCP4 protein	X78224	CAA55068	P42059
+P0C0Y5	220	Capnodiales	Cladosporium herbarum	Cla h 8	Mannitol dehydrogenase	AY191816	AAO91801	P0C0Y5
+B7ZK61	221	Capnodiales	Cladosporium herbarum	Cla h 9	Vacuolar serine protease	AY787775	AAX14379	B7ZK61
+C6GKU6	222	Clupeiformes	Clupea harengus	Clu h 1	Beta-parvalbumin	FM178220	CAQ72970	C6GKU6
+Q9Y7G3	223	Agaricales	Coprinus comatus	Cop c 1	Leucine zipper protein	AJ132235	CAB39376	Q9Y7G3
+Q9UW02	224	Agaricales	Coprinus comatus	Cop c 2	Thioredoxin	AJ242791	CAB52130	Q9UW02
+Q9UW01	225	Agaricales	Coprinus comatus	Cop c 3		AJ242792	CAB52131	Q9UW01
+Q9UW00	226	Agaricales	Coprinus comatus	Cop c 5		AJ242793	CAB52132	Q9UW00
+Q9UVZ9	227	Agaricales	Coprinus comatus	Cop c 7		AJ242794	CAB52133	Q9UVZ9
+Q08407	228	Fagales	Corylus avellana	Cor a 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	X70999	CAA50327	Q08407
+Q9FSY7	229	Fagales	Corylus avellana	Cor a 10	Luminal binding protein	AJ295617	CAC14168	Q9FSY7
+Q8S4P9	230	Fagales	Corylus avellana	Cor a 11	7S seed storage globulin (vicilin-like)	AF441864	AAL86739	Q8S4P9
+Q84T91	232	Fagales	Corylus avellana	Cor a 13	14-16 kDa oleosin	AY224599	AAO65960	Q84T91
+D0PWG2	233	Fagales	Corylus avellana	Cor a 14	2S albumin	FJ358504	ACO56333	D0PWG2
+Q9AXH5	234	Fagales	Corylus avellana	Cor a 2	Profilin	AF327622	AAK01235	Q9AXH5
+Q9ATH2	235	Fagales	Corylus avellana	Cor a 8	Non-specific lipid transfer protein type 1	AF329829	AAK28533	Q9ATH2
+Q8W1C2	236	Fagales	Corylus avellana	Cor a 9	11S seed storage globulin (legumin-like)	AF449424	AAL73404	Q8W1C2
+D7F1J4	237	Decapoda	Crangon crangon	Cra c 1	Tropomyosin	FJ457621	ACR43473	D7F1J4
+D7F1J5	238	Decapoda	Crangon crangon	Cra c 2	Arginine kinase	FJ457622	ACR43474	D7F1J5
+D7F1P9	239	Decapoda	Crangon crangon	Cra c 4	Sarcoplasmic calcium-binding protein	FJ462737	ACR43475	D7F1P9
+D7F1Q1	240	Decapoda	Crangon crangon	Cra c 5	"Myosin, light chain 1"	FJ462739	ACR43477	D7F1Q1
+D7F1Q2	241	Decapoda	Crangon crangon	Cra c 6	Troponin C	FJ462740	ACR43478	D7F1Q2
+D7F1Q0	242	Decapoda	Crangon crangon	Cra c 8	Triosephosphate isomerase	FJ462738	ACR43476	D7F1Q0
+Q29W25	243	Asparagales	Crocus sativus	Cro s 1	Ole e 1-like protein	AY923864	AAX93750	Q29W25
+Q5EF31	244	Asparagales	Crocus sativus	Cro s 2	Profilin	AY898658	AAW81034	Q5EF31
+P18632	245	Cupressales	Cryptomeria japonica	Cry j 1	Pectate lyase	D26544	BAA05542	P18632
+P43212	246	Cupressales	Cryptomeria japonica	Cry j 2	Polygalacturonase	D29772	BAA06172	P43212
+Q94424	247	Siphonaptera	Ctenocephalides felis	Cte f 1		U63555	AAC69105	Q94424
+Q9NH66	248	Siphonaptera	Ctenocephalides felis	Cte f 2		AF231352	AAF65314	Q9NH66
+Q39547	250	Cucurbitales	Cucumis melo	Cuc m 1	Alkaline serine protease (cucumisin)	D32206	BAA06905	Q39547
+Q5FX67	251	Cucurbitales	Cucumis melo	Cuc m 2	Profilin	AY879597	AAW69549	Q5FX67
+P83834	252	Cucurbitales	Cucumis melo	Cuc m 3	Pathogenesis-related protein PR-1		P83834	P83834
+Q9SCG9	253	Cupressales	Cupressus arizonica	Cup a 1	Pectate lyase	AJ243570	CAB62551	Q9SCG9
+Q9M4S6	254	Cupressales	Cupressus sempervirens	Cup s 1	Pectate lyase	AF257491	AAF72625	Q9M4S6
+Q69CS2	255	Cupressales	Cupressus sempervirens	Cup s 3	Thaumatin-like protein	AY353705	AAR21073	Q69CS2
+Q96VP4	257	Pleosporales	Curvularia lunata (Cochliobolus lunatus)	Cur l 2	Enolase	AY034826	AAK67491	Q96VP4
+Q96VP3	258	Pleosporales	Curvularia lunata (Cochliobolus lunatus)	Cur l 3	Cytochrome c	AY034827	AAK67492	Q96VP3
+O04701	259	Poales	Cynodon dactylon	Cyn d 1	Beta-expansin	S83343	AAB50734	O04701
+O04725	260	Poales	Cynodon dactylon	Cyn d 12	Profilin	Y08390	CAA69670	O04725
+Q7XYF2	261	Poales	Cynodon dactylon	Cyn d 15		AF517686	AAP80171	Q7XYF2
+Q7XYF3	263	Poales	Cynodon dactylon	Cyn d 23		AF517685	AAP80170	Q7XYF3
+Q647J6	264	Poales	Cynodon dactylon	Cyn d 24	Pathogenesis-related protein PR-1	AY720896	AAU15051	Q647J6
+P94092	265	Poales	Cynodon dactylon	Cyn d 7	Polcalcin	U75585	AAD00247	P94092
+Q7M1X8	266	Poales	Dactylis glomerata	Dac g 1	Beta-expansin		Q7M1X8	Q7M1X8
+Q41183	267	Poales	Dactylis glomerata	Dac g 2		S45354	AAB23303	Q41183
+P93124	268	Poales	Dactylis glomerata	Dac g 3		U25343	AAB42200	P93124
+P82946	269	Poales	Dactylis glomerata	Dac g 4			P82946	P82946
+O04298	271	Apiales	Daucus carota	Dau c 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	U47087	AAB01092	O04298
+Q8SAE6	272	Apiales	Daucus carota	Dau c 4	Profilin	AF456482	AAL76933	Q8SAE6
+Q58A71	274	Astigmata	Dermatophagoides farinae	Der f 1	Cysteine protease	AB034946	BAC53948	Q58A71
+Q23939	275	Astigmata	Dermatophagoides farinae	Der f 10	Tropomyosin	D17682	BAA04557	Q23939
+Q967Z0	276	Astigmata	Dermatophagoides farinae	Der f 11	Paramyosin	AF352244	AAK39511	Q967Z0
+Q1M2P5	277	Astigmata	Dermatophagoides farinae	Der f 13	Fatty acid binding protein	AY283293	AAP35078	Q1M2P5
+Q94507	278	Astigmata	Dermatophagoides farinae	Der f 14	Apolipophorin	D17686	BAA04558	Q94507
+Q9U6R7	279	Astigmata	Dermatophagoides farinae	Der f 15	Chitinase	AF178772	AAD52672	Q9U6R7
+Q8MVU3	280	Astigmata	Dermatophagoides farinae	Der f 16	Gelsolin/villin	AF465625	AAM64112	Q8MVU3
+Q86R84	282	Astigmata	Dermatophagoides farinae	Der f 18	Chitin-binding protein	AY093656	AAM19082	Q86R84
+Q00855	283	Astigmata	Dermatophagoides farinae	Der f 2	NPC2 family	D10447	BAA01239	Q00855 (variant)
+A5X5X4	284	Astigmata	Dermatophagoides farinae	Der f 22		DQ643992	ABG35122	A5X5X4
+P49275	285	Astigmata	Dermatophagoides farinae	Der f 3	Trypsin	D63858	BAA09920	P49275
+P49276	286	Astigmata	Dermatophagoides farinae	Der f 6	Chymotrypsin	AF125187	AAF28423	P49276
+Q26456	287	Astigmata	Dermatophagoides farinae	Der f 7	Bactericidal permeability-increasing like protein	S80655	AAB35977	Q26456
+P16312	288	Astigmata	Dermatophagoides microceras	Der m 1	Cysteine protease		P16312	P16312
+P08176	289	Astigmata	Dermatophagoides pteronyssinus	Der p 1	Cysteine protease	U11695 (variant)	AAB60215 (variant)	P08176 (variant)
+O18416	290	Astigmata	Dermatophagoides pteronyssinus	Der p 10	Tropomyosin	Y14906	CAA75141	O18416
+Q6Y2F9	291	Astigmata	Dermatophagoides pteronyssinus	Der p 11	Paramyosin	AY189697	AAO73464	Q6Y2F9
+Q8N0N0	292	Astigmata	Dermatophagoides pteronyssinus	Der p 14	Apolipophorin	AF373221	AAM21322	Q8N0N0
+P49278	293	Astigmata	Dermatophagoides pteronyssinus	Der p 2	NPC2 family	AF276239	AAF86462	P49278
+B2ZSY4	294	Astigmata	Dermatophagoides pteronyssinus	Der p 20	Arginine kinase	EU684970	ACD50950	B2ZSY4
+Q2L7C5	295	Astigmata	Dermatophagoides pteronyssinus	Der p 21		DQ354124	ABC73706	Q2L7C5
+L7N6F8	296	Astigmata	Dermatophagoides pteronyssinus	Der p 23	Peritrophin-like protein domain (PF01607)	EU414751.1	ACB46292 	L7N6F8
+P39675	297	Astigmata	Dermatophagoides pteronyssinus	Der p 3	Trypsin	U11719	AAA19973	P39675
+AAD38942	298	Astigmata	Dermatophagoides pteronyssinus	Der p 4	Alpha-amylase	AF144060	AAD38942	Q9Y197
+P14004	299	Astigmata	Dermatophagoides pteronyssinus	Der p 5		X17699	CAA35692	P14004
+P49277	300	Astigmata	Dermatophagoides pteronyssinus	Der p 6	Chymotrypsin		P49277	P49277
+P49273	301	Astigmata	Dermatophagoides pteronyssinus	Der p 7	Bactericidal permeability-increasing like protein	U37044	AAA80264	P49273
+P46419	302	Astigmata	Dermatophagoides pteronyssinus	Der p 8	Glutathione S-transferase	S75286	AAB32224	P46419
+Q7Z163	303	Astigmata	Dermatophagoides pteronyssinus	Der p 9	Collagenolytic serine protease	AY211952	AAP57077	Q7Z163
+Q05108	304	Hymenoptera	Dolichovespula arenaria	Dol a 5	Antigen 5	M98859	AAA28303	Q05108
+Q06478	305	Hymenoptera	Dolichovespula maculata	Dol m 1	Phospholipase A1B	X66869	CAA47341	Q06478
+P49371	306	Hymenoptera	Dolichovespula maculata	Dol m 2	Hyaluronidase	L34548	AAA68279	P49371
+P10736	307	Hymenoptera	Dolichovespula maculata	Dol m 5	Antigen 5	J03601	AAA28301	P10736
+P83340	308	Pleosporales	Epicoccum purpurascens	Epi p 1	Serine protease		P83340	P83340
+Q95182	309	Perissodactyla	Equus caballus	Equ c 1	Lipocalin	U70823	AAC48691	Q95182
+AYL64456	310	Perissodactyla	Equus caballus	Equ c 2	Lipocalin	MG761768	AYL64456	
+P35747	311	Perissodactyla	Equus caballus	Equ c 3	Serum albumin	X74045	CAA52194	P35747
+P82615	312	Perissodactyla	Equus caballus	Equ c 4	Latherin	AF491288	AAM09530	P82615
+P25780	314	Astigmata	Euroglyphus maynei	Eur m 1	Cysteine protease	AF047610	AAC82351	P25780
+Q9U785	315	Astigmata	Euroglyphus maynei	Eur m 14	Apolipophorin	AF149827	AAF14270	Q9U785
+Q9TZZ2	316	Astigmata	Euroglyphus maynei	Eur m 2	NPC2 family	AF047613	AAC8234	Q9TZZ2
+O97370	317	Astigmata	Euroglyphus maynei	Eur m 3	Trypsin	AF047615	AAD10712	O97370
+Q9Y196	318	Astigmata	Euroglyphus maynei	Eur m 4	Alpha-amylase	AF144061	AAD38943	Q9Y196
+P30438	319	Carnivora	Felis domesticus (F. catus)	Fel d 1	Uteroglobin (chain 1)	M74952 (chain 1)	AAC37318 (chain 1)	P30438 (chain 1)
+P49064	320	Carnivora	Felis domesticus (F. catus)	Fel d 2	Serum albumin	X84842	CAA59279	P49064
+Q8WNR9	321	Carnivora	Felis domesticus (F. catus)	Fel d 3	Cystatin-A	AF238996	AAL49391	Q8WNR9
+Q5VFH6	322	Carnivora	Felis domesticus (F. catus)	Fel d 4	Lipocalin	AY497902	AAS77253	Q5VFH6
+B2ZPG6	326	Diptera	Forcipomyia taiwana	For t 1	Serine/threonine-protein kinase	EU678970	ACD65080	B2ZPG6
+B2ZPG7	327	Diptera	Forcipomyia taiwana	For t 2	Eukaryotic translation initiation factor 3 subunit	EU678971	ACD65081	B2ZPG7
+Q5ULZ4	328	Rosales	Fragaria ananassa	Fra a 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"			Q5ULZ4
+Q8VX12	329	Rosales	Fragaria ananassa	Fra a 3	Non-specific lipid transfer protein type 1 (nsLTP1)	AJ315844	CAC86258	Q8VX12
+P0C0Y3	330	Rosales	Fragaria ananassa	Fra a 4	Profilin	XM_004287442	XP_004287490	P0C0Y3
+Q7XAV4	331	Lamiales	Fraxinus excelsior	Fra e 1	Ole e 1-like protein family member	AF526295	AAQ08947	Q7XAV4
+Q8TFM9	332	Hypocreales	Fusarium culmorum	Fus c 1	Ribosomal protein P2	AY077706	AAL79930	Q8TFM9
+Q8TFM8	333	Hypocreales	Fusarium culmorum	Fus c 2	Thioredoxin-like protein	AY077707	AAL79931	Q8TFM8
+P02622	334	Gadiformes	Gadus callarias	Gad c 1	Beta-parvalbumin		P02622	P02622
+P01005	335	Galliformes	Gallus domesticus (G. gallus)	Gal d 1	Ovomucoid	J00902	P01005	P01005
+P01012	336	Galliformes	Gallus domesticus (G. gallus)	Gal d 2	Ovalbumin	V00383	CAA23682	P01012
+P02789	337	Galliformes	Gallus domesticus (G. gallus)	Gal d 3	Ovotransferrin	X02009	CAA26040	P02789
+P00698	338	Galliformes	Gallus domesticus (G. gallus)	Gal d 4	Lysozyme C	V00428	CAA23711	P00698
+P19121	339	Galliformes	Gallus domesticus (G. gallus)	Gal d 5	Serum albumin	X60688	CAA43098	P19121
+P87498	340	Galliformes	Gallus domesticus (G. gallus)	Gal d 6	YGP42	D89547	BAA13973	P87498
+Q9U5P7	341	Astigmata	Glycyphagus domesticus	Gly d 2		AJ249864	CAB5997	Q9U5P7
+Q9S8F3	342	Fabales	Glycine max	Gly m 1	Hydrophobic protein from soybean		Q9S8F3	Q9S8F3
+O65809	344	Fabales	Glycine max	Gly m 3	Profilin	AJ223982	CAA11756	O65809
+P26987	345	Fabales	Glycine max	Gly m 4	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	X60043	CAA42646	P26987
+O22120	346	Fabales	Glycine max	Gly m 5	"Beta-conglycinin (vicilin, 7S globulin)"	AB008678	BAA23360	O22120
+P04776	347	Fabales	Glycine max	Gly m 6	"Glycinin (legumin, 11S globulin)"	M36686	AAA33966	P04776
+O81982	352	Asterales	Helianthus annuus	Hel a 2	Profilin	Y15210	CAA75506	O81982
+AAP47226	353	Asterales	Helianthus annuus	Hel a 3	Non-specific lipid transfer protein type 1 (nsLTP1)	AF529201	AAP47226	Q7X9Q5
+O97192	354	Pulmonata	Helix aspersa	Hel as 1	Tropomyosin	Y14855	CAB3804	O97192
+P15252	355	Malpighiales	Hevea brasiliensis	Hev b 1	Rubber elongation factor	X56535	CAA39880	P15252
+P35017	356	Malpighiales	Hevea brasiliensis	Hev b 10	Superoxide dismutase (Mn)	L11707	AAA16792	P35017
+Q949H3	357	Malpighiales	Hevea brasiliensis	Hev b 11	Class I chitinase	AJ238579	CAC42881	Q949H3
+Q8RYA8	358	Malpighiales	Hevea brasiliensis	Hev b 12	Non-specific lipid transfer protein type 1 (nsLTP1)	AY057860	AAL25839	Q8RYA8
+Q7Y1X1	359	Malpighiales	Hevea brasiliensis	Hev b 13	Esterase	AY283800	AAP37470	Q7Y1X1
+P52407	360	Malpighiales	Hevea brasiliensis	Hev b 2	"beta-1,3-glucanase; glucan endo-1,3-beta-glucosidase, basic vacuolar isoform"	U22147	AAA87456	P52407
+O82803	361	Malpighiales	Hevea brasiliensis	Hev b 3	Small rubber particle protein (SRPP)	AF051317	AAC82355	O82803
+Q6T4P0	362	Malpighiales	Hevea brasiliensis	Hev b 4	Lecithinase homologue; GDSL lipase/esterase family member	AY437086	AAR98518	Q6T4P0
+Q39967	363	Malpighiales	Hevea brasiliensis	Hev b 5	"Acidic protein, unknown function"	U42640	AAC49447	Q39967
+P02877	364	Malpighiales	Hevea brasiliensis	Hev b 6	Hevein precursor	M36986	AAA33357	P02877
+O04008	365	Malpighiales	Hevea brasiliensis	Hev b 7	Patatin-like protein	U80598	AAC27724	O04008
+O65812	366	Malpighiales	Hevea brasiliensis	Hev b 8	Profilin	Y15042	CAA75312	O65812
+Q9LEJ0	367	Malpighiales	Hevea brasiliensis	Hev b 9	Enolase	AJ132580	CAC00532	Q9LEJ0
+P43216	368	Poales	Holcus lanatus	Hol l 1	Beta-expansin	Z27084	CAA81619	P43216
+O23972	369	Poales	Holcus lanatus	Hol l 5		Z97874	CAB10765	O23972
+AAC48287	370	Decapoda	Homarus americanus	Hom a 1	Tropomyosin	AF034953	AAC48287	O44119-1
+P29291	372	Decapoda	Homarus americanus	Hom a 6	Troponin C		P29291	P29291
+O43290	373	Primates	Homo sapiens	Hom s 1	Squamous cell carcinoma antigen SART-1	AB006198	BAA24056	O43290
+Q13765	374	Primates	Homo sapiens	Hom s 2	Nascent polypeptide-associated complex alpha subunit	AY034001	AAK57544	Q13765
+CAA62012	375	Primates	Homo sapiens	Hom s 3	BCL7B protein	X89985	CAA62012	Q13845
+CAA76830	376	Primates	Homo sapiens	Hom s 4	Atopy related autoantigen CALC	Y17711	CAA76830	O75785
+P02538	377	Primates	Homo sapiens	Hom s 5	"Keratin, type II cytoskeletal 6A"	BC069269	AAH69269	P02538
+P52184	379	Poales	Hordeum vulgare	Hor v 12	Profilin	U49505	AAA92503	P52184
+P16968	380	Poales	Hordeum vulgare	Hor v 15	Alpha-amylase inhibitor BMAI-1 precursor	X63517	CAA45085	P16968
+P80198	383	Poales	Hordeum vulgare	Hor v 20	Gamma-hordein 3	X72628	CAA51204	P80198
+O04828	384	Poales	Hordeum vulgare	Hor v 5		U57845	AAB41585	O04828
+Q7XBE3	385	Rosales	Humulus japonicus	Hum j 1		AY335187	AAP94213	Q7XBE3
+Q7Y1C2	386	Fagales	Juglans nigra	Jug n 1	2S albumin seed storage protein	AY102930	AAM54365	Q7Y1C2
+Q7Y1C1	387	Fagales	Juglans nigra	Jug n 2	Vicilin seed storage protein	AY102931	AAM54366	Q7Y1C1
+P93198	388	Fagales	Juglans regia	Jug r 1	2S albumin seed storage protein	U66866	AAB41308	P93198
+Q9SEW4	389	Fagales	Juglans regia	Jug r 2	Vicilin seed storage protein	AF066055	AAF18269	Q9SEW4
+C5H617	390	Fagales	Juglans regia	Jug r 3	Non-specific lipid transfer protein type 1 (nsLTP1)	EU780670	ACI47547	C5H617
+Q2TPW5	391	Fagales	Juglans regia	Jug r 4	11S globulin seed storage protein	AY692446	AAW29810	Q2TPW5
+P81294	392	Cupressales	Juniperus ashei	Jun a 1	Pectate lyase	AF106662	AAD03608	P81294
+Q9FY19	393	Cupressales	Juniperus ashei	Jun a 2	Polygalacturonase	AJ404653	CAC05582	Q9FY19
+P81295	394	Cupressales	Juniperus ashei	Jun a 3	Thaumatin-like protein	AF121776	AAF31759	P81295
+O64943	395	Cupressales	Juniperus oxycedrus	Jun o 4	Polcalcin-like protein (4 EF hand domains)	AF031471	AAC15474	O64943
+Q9LLT1	397	Cupressales	Juniperus virginiana?(Eastern red cedar)	Jun v 1	Pectate lyase	AF151427	AAF80164	Q9LLT1
+Q9LD79	398	Cupressales	Juniperus virginiana	Jun v 3	Thaumatin-like protein	AF151430	AAF80167	Q9LD79
+XP_023731522	399	Asterales	Lactuca sativa	Lac s 1	Non-specific lipid transfer protein		XP_023731522.1	
+Q84UI1	400	Fabales	Lens culinaris	Len c 1	Gamma-vicilin subunit	AJ551424	CAD87730	Q84UI1
+Q9NFZ4	402	Astigmata	Lepidoglyphus destructor	Lep d 10	Tropomyosin	AJ250096	CAB71342	Q9NFZ4
+Q9U5P1	403	Astigmata	Lepidoglyphus destructor	Lep d 13	Fatty acid-binding protein	AJ250279	CAB62213	Q9U5P1
+P80384	404	Astigmata	Lepidoglyphus destructor	Lep d 2	NPC2 family	X81399	CAA61419	P80384
+Q9U5P2	405	Astigmata	Lepidoglyphus destructor	Lep d 5		AJ250278	CAB62212	Q9U5P2
+Q9U1G2	406	Astigmata	Lepidoglyphus destructor	Lep d 7	Bactericidal permeability-increasing like protein	AJ271058	CAB65963	Q9U1G2
+Q8T380	407	Thysanura	Lepisma saccharina	Lep s 1	Tropomyosin	AJ309202	CAC84590	Q8T380
+B5WX08	408	Pleuronectiformes	Lepidorhombus whiffiagonis	Lep w 1	Beta-parvalbumin	AM904681	CAP17694	B5WX08
+O82015	409	Lamiales	Ligustrum vulgare	Lig v 1	Ole e 1-like protein family member	X77787	CAA54818	O82015
+Q941H7	410	Sapindales	Litchi chinensis	Lit c 1	Profilin	AY049013	AAL07320	Q941H7
+B4YAH6	411	Decapoda	Litopenaeus vannamei	Lit v 1	Tropomyosin	EU410072	ACB38288	B4YAH6
+Q004B5	412	Decapoda	Litopenaeus vannamei	Lit v 2	Arginine kinase	DQ975203	ABI98020	Q004B5
+B7SNI3	413	Decapoda	Litopenaeus vannamei	Lit v 3	"Myosin, light chain 2"	EU449515	ACC76803	B7SNI3
+C7A639	414	Decapoda	Litopenaeus vannamei	Lit v 4	Sarcoplasmic calcium-binding protein	FJ184279	ACM89179	C7A639
+P14946	415	Poales	Lolium perenne	Lol p 1	Beta-expansin	M57474	AAA63279	P14946
+Q7M1X5	416	Poales	Lolium perenne	Lol p 11	Ole e 1-related protein		Q7M1X5	Q7M1X5
+P14947	417	Poales	Lolium perenne	Lol p 2			P14947	P14947
+P14948	418	Poales	Lolium perenne	Lol p 3			P14948	P14948
+Q5TIW3	419	Poales	Lolium perenne	Lol p 4		AJ862835	CAH92637	Q5TIW3
+Q40237	420	Poales	Lolium perenne	Lol p 5		L13083	AAA33405	Q40237
+B8Q5G0	421	Fabales	Lupinus angustifolius	Lup an 1	"Conglutin beta (7S seed storage globulin, vicilin)"	EU352876	ACB05815	B8Q5G0
+Q93YG7	422	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 1	Profilin	AJ417553	CAD10377	Q93YG7
+Q547Q0	423	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 2	Beta-fructofuranosidase	AF465612	AAL75449	Q547Q0
+P93224	424	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 3	Non-specific lipid transfer protein type 1 (nsLTP1)	U81996	AAB42069	P93224
+P43211	425	Rosales	Malus domestica	Mal d 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	X83672	CAA58646	P43211
+Q9FSG7	426	Rosales	Malus domestica	Mal d 2	Thaumatin-like protein	AF090143	AAC36740	Q9FSG7
+Q5J026	427	Rosales	Malus domestica	Mal d 3	Non-specific lipid transfer protein type 1 (nsLTP1)	AY572500	AAT80633	Q5J026
+Q9XF42	428	Rosales	Malus domestica	Mal d 4	Profilin	AF129428	AAD29414	Q9XF42
+P56577	429	Malasseziales	Malassezia furfur	Mala f 2	Peroxysomal membrane protein	AB011804	BAA32435	P56577
+P56578	430	Malasseziales	Malassezia furfur	Mala f 3	Peroxysomal membrane protein	AB011805	BAA32436	P56578
+Q9Y750	431	Malasseziales	Malassezia furfur	Mala f 4	Mitochondrial malate dehydrogenase	AF084828	AAD25927	Q9Y750
+Q01940	432	Malasseziales	Malassezia sympodialis	Mala s 1		X96486	CAA65341	Q01940
+Q8TGH3	433	Malasseziales	Malassezia sympodialis	Mala s 10	heat shock protein 70	AJ428052	CAD20981	Q8TGH3
+Q873M4	434	Malasseziales	Malassezia sympodialis	Mala s 11	manganese superoxide dismutase	AJ548421	CAD68071	Q873M4
+Q5GMY3	435	Malasseziales	Malassezia sympodialis	Mala s 12	glucose-methanol-choline (GMC) oxidoreductase	AJ871960	CAI43283	Q5GMY3
+Q1RQI9	436	Malasseziales	Malassezia sympodialis	Mala s 13	Thioredoxin	AJ937746	CAI78451	Q1RQI9
+O93969	437	Malasseziales	Malassezia sympodialis	Mala s 5		AJ011955	CAA09883	O93969
+O93970	438	Malasseziales	Malassezia sympodialis	Mala s 6	Cyclophilin	AJ011956	CAA09884	O93970
+O93971	439	Malasseziales	Malassezia sympodialis	Mala s 7		AJ011957	CAA09885	O93971
+O93972	440	Malasseziales	Malassezia sympodialis	Mala s 8		AJ011958	CAA09886	O93972
+O93973	441	Malasseziales	Malassezia sympodialis	Mala s 9		AJ011959	CAA09887	O93973
+O49894	442	Malpighiales	Mercurialis annua	Mer a 1	Profilin	Y13271	CAA73720	O49894
+Q25456	443	Decapoda	Metapenaeus ensis	Met e 1	Tropomyosin	U08008	AAA60330	Q25456
+P85894	444	Rosales	Morus nigra	Mor n 3	Non-specific lipid transfer protein type 1 (nsLTP1)		P85894	P85894
+Q94JN3	445	Zingiberales	Musa acuminata	Mus a 1	Profilin	AF377948	AAK54834	Q94JN3
+Q8VXF1	446	Zingiberales	Musa acuminata	Mus a 2	Class 1 chitinase	AJ277278	CAC81811	Q8VXF1
+P86333	447	Zingiberales	Musa acuminata	Mus a 3	Non-specific lipid transfer protein type 1 (nsLTP1)		P86333	P86333
+1Z3Q_A	448	Zingiberales	Musa acuminata	Mus a 4	Thaumatin-like protein		1Z3Q_A	
+O22317	449	Zingiberales	Musa acuminata	Mus a 5	"Beta-1,3-glucanase"	AF001523	AAB82772	O22317
+P02762	450	Rodentia	Mus musculus	Mus m 1	Lipocalin and urinary prealbumin	X03208	CAA26953	P02762
+Q07932	451	Hymenoptera	Myrmecia pilosula	Myr p 1		X70256	CAA49760	Q07932
+Q26464	452	Hymenoptera	Myrmecia pilosula	Myr p 2	pilosulin-3	S81785	AAB36316	Q26464
+Q68Y22	453	Hymenoptera	Myrmecia pilosula	Myr p 3	pilosulin-4.1	AB128065	BAD36780	Q68Y22
+P19963	454	Lamiales	Olea europaea	Ole e 1	Common olive group 1	S75766	AAB32652	P19963
+Q84V39	455	Lamiales	Olea europaea	Ole e 10	X8 domain containing protein	AY082335	AAL92578	Q84V39
+O24169	456	Lamiales	Olea europaea	Ole e 2	Profilin-1	Y12425	CAA73035	O24169
+O81092	457	Lamiales	Olea europaea	Ole e 3	Polcalcin	AF015810	AAD05375	O81092
+P80741	458	Lamiales	Olea europaea	Ole e 4			P80741	P80741
+P80740	459	Lamiales	Olea europaea	Ole e 5	Superoxide dismutase [Cu-Zn]		P80740	P80740
+O24172	460	Lamiales	Olea europaea	Ole e 6		U86342	AAB66909	O24172
+P81430	461	Lamiales	Olea europaea	Ole e 7	putative non-specific lipid transfer protein		P81430	P81430
+Q9M7R0	462	Lamiales	Olea europaea	Ole e 8	Polcalcin-like protein (4 EF-hands)	AF078679	AAF31151	Q9M7R0
+Q94G86	463	Lamiales	Olea europaea	Ole e 9	1 3-beta glucanase	AF249675	AAK58515	Q94G86
+Q40638	465	Poales	Oryza sativa	Ory s 1	Beta-expansin	U31771	AAA86533	Q40638
+Q9FUD1	466	Poales	Oryza sativa	Ory s 12	Profilin A	AF310253	AAG32056	Q9FUD1
+O61379	467	Decapoda	Panulirus stimpsoni	Pan s 1	Tropomyosin	AF030063	AAC38996	O61379
+P43217	468	Rosales	Parietaria judaica	Par j 1	Non-specific lipid transfer protein type 1	X77414	CAA54587	P43217
+P55958	469	Rosales	Parietaria judaica	Par j 2	Non-specific lipid transfer protein type 1	X95865	CAA65121	P55958
+Q9XG85	470	Rosales	Parietaria judaica	Par j 3	Profilin	Y15208	CAB44256	Q9XG85
+B5QST3	471	Rosales	Parietaria judaica	Par j 4	Polcalcin	AM884396	CAP05019	B5QST3
+B8PYF3	473	Poales	Paspalum notatum	Pas n 1	Beta-expansin	EU327342	ACA23876	B8PYF3
+Q3Y8M6	474	Decapoda	Penaeus aztecus	Pen a 1	Tropomyosin	DQ151457	AAZ76743	Q3Y8M6
+Q49KL9	476	Eurotiales	Penicillium brevicompactum	Pen b 26	Acidic ribosomal prot. P1	AY786077	AAX11194	Q49KL9
+Q9URH1	477	Eurotiales	Penicillium citrinum	Pen c 13	Alkaline serine protease		Q9URH1	Q9URH1
+Q92260	478	Eurotiales	Penicillium citrinum	Pen c 19	Heat shock protein P70	U64207	AAB06397	Q92260
+Q96X46	479	Eurotiales	Penicillium citrinum	Pen c 22	Enolase	AF254643	AAK51201	Q96X46
+Q69BZ7	480	Eurotiales	Penicillium citrinum	Pen c 24	elongation factor 1 beta	AY363911	AAR17475	Q69BZ7
+Q9Y8B8	481	Eurotiales	Penicillium citrinum	Pen c 3	Peroxysomal membrane protein	AF144753	AAD42074	Q9Y8B8
+Q2V6Q5	482	Eurotiales	Penicillium citrinum	Pen c 30	Catalase	DQ288844	ABB89950	Q2V6Q5
+A2I7W3	483	Eurotiales	Penicillium citrinum	Pen c 32	Pectate lyase	EF159713	ABM60783	A2I7W3
+Q9URR2	484	Eurotiales	Penicillium chrysogenum	Pen ch 13	Alkaline serine protease	AF193420	AAF23726	Q9URR2
+Q9P8G3	485	Eurotiales	Penicillium chrysogenum	Pen ch 18	Vacuolar serine protease	AF264027	AAF71379	Q9P8G3
+Q02352	486	Eurotiales	Penicillium chrysogenum	Pen ch 20	N-acetyl-glucosaminidase	S77837	AAB34785	Q02352
+Q2TL59	487	Eurotiales	Penicillium chrysogenum	Pen ch 31	Calreticulin	AY850367	AAX45072	Q2TL59
+B0L0W9	488	Eurotiales	Penicillium chrysogenum	Pen ch 33		EF206657.1	ABP04053	B0L0W9
+A1KYZ2	490	Decapoda	Penaeus monodon	Pen m 1	tropomyosin	AY827100	AAX37288	A1KYZ2 
+AAO15713	491	Decapoda	Penaeus monodon	Pen m 2	arginine kinase	AF479772	AAO15713	Q8I9P7
+Q9HF12	492	Eurotiales	Penicillium oxalicum	Pen o 18	Vacuolar serine protease	AF243425	AAG44478	Q9HF12
+Q9TZR6	493	Blattodea	Periplaneta americana	Per a 1	"major allergen Per a 1.0101, nitrile-specifier, microvilli-like protein with unknown function"	AF072222	AAD13533	Q9TZR6
+Q1M0X9	494	Blattodea	Periplaneta americana	Per a 10	Serine protease	AY792954	AAX33734	Q1M0X9
+Q25641	495	Blattodea	Periplaneta americana	Per a 3	Arylphorins/TO Arthropod hemocyanins	L40818	AAB09629	Q25641
+Q1M0Y3	496	Blattodea	Periplaneta americana	Per a 6	Troponin C	AY792950	AAX33730	Q1M0Y3
+CAB38086	497	Blattodea	Periplaneta americana	Per a 7	Tropomyosin	Y14854	CAB38086	Q9UB83
+ACA00204	498	Blattodea	Periplaneta americana	Per a 9	Arginine kinase	EU429466	ACA00204	
+P93680	499	Laurales	Persea americana	Pers a 1	Class I chitinase	Z78202	CAB01591	P93680
+Q41260	500	Poales	Phalaris aquatica	Pha a 1	Beta-expansin	S80654	AAB35984	Q41260
+P56164	501	Poales	Phalaris aquatica	Pha a 5			P56164	P56164
+D3W146	502	Fabales	Phaseolus vulgaris	Pha v 3	non-specific lipid transfer protein type 1	GQ434007	ADC80502	D3W146
+Q40967	503	Poales	Phleum pratense	Phl p 1	Beta-expansin	Z27090	CAA81613	Q40967
+Q8H6L7	504	Poales	Phleum pratense	Phl p 11	Ole e 1-related protein	AF521563	AAN32987	Q8H6L7
+P35079	505	Poales	Phleum pratense	Phl p 12	Profilin	X77583	CAA54686	P35079
+Q9XG86	506	Poales	Phleum pratense	Phl p 13	Polygalacturonase	AJ238848	CAB42886	Q9XG86
+P43214	507	Poales	Phleum pratense	Phl p 2	Grass group II/III	X75925	CAA53529	P43214
+Q5ZQK5	508	Poales	Phleum pratense	Phl p 4	Berberine bridge enzyme	AJ512487	CAD54670	Q5ZQK5
+Q40960	509	Poales	Phleum pratense	Phl p 5		X74735	CAA52753	Q40960
+P43215	510	Poales	Phleum pratense	Phl p 6		Z27082	CAA81608	P43215
+O82040	511	Poales	Phleum pratense	Phl p 7	Polcalcin	Y17835	CAA76887	O82040
+Q8L5D8	512	Arecales	Phoenix dactylifera	Pho d 2	Profilin	AJ417566	CAD10390	Q8L5D8
+Q702P1	513	Fabales	Pisum sativum	Pis s 1	Vicilin	AJ626897	CAF25232	Q702P1
+P13915	514	Fabales	Pisum sativum	Pis s 2	Convicilin	AJ276875.1	CAB82855	P13915
+B7P072	515	Sapindales	Pistacia vera	Pis v 1	2S albumin	DQ631675	ABG73108	B7P072
+B7P073	516	Sapindales	Pistacia vera	Pis v 2	11S globulin subunit	DQ631676	ABG73109	B7P073
+B4X640	517	Sapindales	Pistacia vera	Pis v 3	vicillin	EF116865	ABO36677	B4X640
+B2BDZ8	518	Sapindales	Pistacia vera	Pis v 4	manganese superoxide dismutase	EF470980	ABR29644	B2BDZ8
+B7SLJ1	519	Sapindales	Pistacia vera	Pis v 5	11S globulin subunit	EU410073	ACB55490	B7SLJ1
+Q8GT41	520	Proteales	Platanus acerifolia	Pla a 1	Putative invertase inhibitor	AJ427413	CAD20556	Q8GT41
+Q6H9K0	521	Proteales	Platanus acerifolia	Pla a 2	Polygalacturonase	AJ586898	CAE52833	Q6H9K0
+P82242	523	Lamiales	Plantago lanceolata	Pla l 1	Ole e 1-related protein	AJ313166	CAC41633	P82242
+A9YUH4	524	Proteales	Platanus orientalis	Pla or 1	Plant invertase/pectin methylesterase inhibitor	EU296476	ABY21305	A9YUH4
+A9YUH5	525	Proteales	Platanus orientalis	Pla or 2	Polygalacturonase	EU296477	ABY21306	A9YUH5
+A9YUH6	526	Proteales	Platanus orientalis	Pla or 3	nsLTP1	EU296478	ABY21307	A9YUH6
+Q95PM9	527	Lepidoptera	Plodia interpunctella	Plo i 1	Arginine kinase	AJ315030	CAC85911	Q95PM9
+Q9ZP03	528	Poales	Poa pratensis	Poa p 1	Beta-expansin	AJ131850	CAA10520	Q9ZP03
+Q9FPR0	529	Poales	Poa pratensis	Poa p 5		AF306707	AAG42254	Q9FPR0
+Q9U6W0	530	Hymenoptera	Polistes annularis	Pol a 1	Phospholipase A1B	AF174527	AAD52615	Q9U6W0
+Q9U6V9	531	Hymenoptera	Polistes annularis	Pol a 2	Hyaluronidase	AF174528	AAD52616	Q9U6V9
+Q05109	532	Hymenoptera	Polistes annularis	Pol a 5	Antigen 5	M98857	AAA29793	Q05109
+Q6Q252	533	Hymenoptera	Polistes dominulus	Pol d 1	Phospholipase A1	AY566645	AAS67041	Q6Q252
+Q7Z269	534	Hymenoptera	Polistes dominulus	Pol d 4	Serine protease	AY285998	AAP37412	Q7Z269
+AAT95010	535	Hymenoptera	Polistes dominulus	Pol d 5	Antigen 5	AY685000	AAT95010	Q68KJ8
+AAT95009	538	Hymenoptera	Polistes exclamans	Pol e 5	Antigen 5	AY684999	AAT95009	Q68KJ9
+P35780	539	Hymenoptera	Polistes fuscatus	Pol f 5	Antigen 5		P35780	P35780
+P83542	540	Hymenoptera	Polistes gallicus	Pol g 1	Phospholipase A1		P83542	P83542
+P83377	541	Hymenoptera	Polistes gallicus	Pol g 5	Antigen 5		P83377	P83377
+P35780	542	Hymenoptera	Polistes metricus	Pol m 5	Antigen 5		P35780	P35780
+A2VBC4	543	Hymenoptera	Polybia paulista	Poly p 1	Phospholipase A1	EF101736	ABN13879	A2VBC4
+P05946	545	Decapoda	Pontastacus leptodactylus	Pon l 4	Sarcoplasmic calcium-binding protein		P05946	P05946
+P05547	546	Decapoda	Pontastacus leptodactylus	Pon l 7	Troponin I		P05547	P05547
+O50001	547	Rosales	Prunus armeniaca	Pru ar 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	U93165	AAB97141	O50001
+P81651	548	Rosales	Prunus armeniaca	Pru ar 3	Non-specific lipid transfer protein 1 (nsLTP1)		P81651	P81651
+O24248	549	Rosales	Prunus avium	Pru av 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	U66076	AAC02632	O24248
+P50694	550	Rosales	Prunus avium	Pru av 2	Thaumatin-like protein	U32440	AAB38064	P50694
+Q9M5X8	551	Rosales	Prunus avium	Pru av 3	Non-specific lipid transfer protein 1 (nsLTP1)	AF221501	AAF26449	Q9M5X8
+Q9XF39	552	Rosales	Prunus avium	Pru av 4	Profilin	AF129425	AAD29411	Q9XF39
+P82534	553	Rosales	Prunus domestica	Pru d 3	Non-specific lipid transfer protein 1 (nsLTP1)		P82534	P82534
+C0L0I5	554	Rosales	Prunus dulcis	Pru du 3	Non-specific lipid transfer protein 1 (nsLTP1)	FJ652103	ACN11576	C0L0I5
+Q8GSL5	555	Rosales	Prunus dulcis	Pru du 4	Profilin	AY081850	AAL91662	Q8GSL5
+Q8H2B9	556	Rosales	Prunus dulcis	Pru du 5	60s acidic ribosomal prot. P2	DQ836316	ABH03379	Q8H2B9
+Q2I6V8	557	Rosales	Prunus persica	Pru p 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	DQ251187	ABB78006	Q2I6V8
+P81402	558	Rosales	Prunus persica	Pru p 3	Non-specific lipid transfer protein 1 (nsLTP1)		P81402	P81402
+Q8GT40	559	Rosales	Prunus persica	Pru p 4	Profilin	AJ491881	CAD37201	Q8GT40
+O65200	562	Rosales	Pyrus communis	Pyr c 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	AF057030	AAC13315	O65200
+Q9M5X6	563	Rosales	Pyrus communis	Pyr c 3	Nonspecific lipid-transfer protein 1	AF221503	AAF26451	Q9M5X6
+Q9XF38	564	Rosales	Pyrus communis	Pyr c 4	Profilin	AF129424	AAD29410	Q9XF38
+O81355	565	Rosales	Pyrus communis	Pyr c 5	"Isoflavone reductase related protein, putative phenylcoumaran benzylic ether reductase"	AF071477	AAC24001	O81355
+Q8JIU2	567	Anura	Rana esculenta (Pelophylax esculentus)	Ran e 1	Alpha-parvalbumin	AJ315959	CAC83046	Q8JIU2
+Q8JIU1	568	Anura	Rana esculenta (Pelophylax esculentus)	Ran e 2	Beta-parvalbumin	AJ414730	CAC95152	Q8JIU1
+P02761	569	Rodentia	Rattus norvegicus	Rat n 1	Lipocalin and Alpha-2u-globulin	J00737	AAA41198	P02761
+Q870B9	570	Sporidiobolales	Rhodotorula mucilaginosa	Rho m 1	Enolase	AF382946	AAP30720	Q870B9
+Q32ZM1	571	Sporidiobolales	Rhodotorula mucilaginosa	Rho m 2	vacuolar serine protease	AY547285	AAT37679	Q32ZM1
+P01089	572	Malpighiales	Ricinus communis	Ric c 1	2S albumin	X54158	CAA38097	P01089
+Q0Z8U9	573	Rosales	Rubus idaeus	Rub i 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	DQ660361	ABG54495	Q0Z8U9
+Q0Z8V0	574	Rosales	Rubus idaeus	Rub i 3	Non-specific lipid transfer protein 1 (nsLTP1)	DQ660360	ABG54494	Q0Z8V0
+P83181	575	Caryophyllales	Salsola kali	Sal k 1	Pectin methylesterase		P83181	P83181
+Q8L5K9	576	Caryophyllales	Salsola kali	Sal k 2	Protein kinase homologue	AF449490	AAN05083	Q8L5K9
+C1KEU0	577	Caryophyllales	Salsola kali	Sal k 3	Cobalamin independent methionine synthase	FJ821454	ACO34814	C1KEU0
+C6JWH0	578	Caryophyllales	Salsola kali	Sal k 4	Profilin	GQ145223	ACS34771	C6JWH0
+E2D0Z0	579	Caryophyllales	Salsola kali	Sal k 5	Ole e 1-like protein	GQ427676	ADK22842	E2D0Z0
+Q91482	580	Salmoniformes	Salmo salar	Sal s 1	Beta-parvalbumin 1	X97824	CAA66403	Q91482
+B3WFF7	581	Clupeiformes	Sardinops sagax	Sar sa 1	Beta-parvalbumin	FM177701	CAQ68366	B3WFF7
+C6GKU4	582	Scorpaeniformes	Sebastes marinus	Seb m 1	Beta-parvalbumin	FM178218	CAQ72968	C6GKU4
+Q9S8H2	583	Poales	Secale cereale	Sec c 38	Dimeric alpha-amylase/trypsin inhibitor		Q9S8H2	Q9S8H2
+Q9S8B0	584	Poales	Secale cereale	Sec c 20	Gamma-secalin		Q9S8B0	Q9S8B0
+Q9AUD1	585	Lamiales	Sesamum indicum	Ses i 1	2S albumin	AF240005	AAK15088	Q9AUD1
+Q9XHP1	586	Lamiales	Sesamum indicum	Ses i 2	2S albumin	AF091841	AAD42943	Q9XHP1
+Q9AUD0	587	Lamiales	Sesamum indicum	Ses i 3	7S vicilin-like globulin	AF240006	AAK15089	Q9AUD0
+Q9FUJ9	588	Lamiales	Sesamum indicum	Ses i 4	oleosin	AF302807	AAG23840	Q9FUJ9
+Q9XHP2	589	Lamiales	Sesamum indicum	Ses i 5	oleosin	AF091840	AAD42942	Q9XHP2
+Q9XHP0	590	Lamiales	Sesamum indicum	Ses i 6	11S globulin	AF091842	AAD42944	Q9XHP0
+Q9AUD2	591	Lamiales	Sesamum indicum	Ses i 7	11S globulin	AF240004	AAK15087	Q9AUD2
+P15322	592	Brassicales	Sinapis alba	Sin a 1	2S albumin	X91799	CAA62909	P15322
+Q2TLW0	593	Brassicales	Sinapis alba	Sin a 2	11S globulin (legumin-like) seed storage protein	AY846388	AAX77383	Q2TLW0
+E6Y2L9	594	Brassicales	Sinapis alba	Sin a 3	non-specific lipid transfer protein type 1	EF626938	ABU95411	E6Y2L9
+E6Y2M0	595	Brassicales	Sinapis alba	Sin a 4	Profilin	EF626939	ABU95412	E6Y2M0
+Q9NH75	598	Hymenoptera	Solenopsis geminata	Sol g 4		AF230383	AAF65312	Q9NH75
+Q68KK0	599	Hymenoptera	Solenopsis invicta	Sol i 1	Phospholipase A1B	AY684998	AAT95008	Q68KK0
+P35775	600	Hymenoptera	Solenopsis invicta	Sol i 2		L09560	P35775	P35775
+P35778	601	Hymenoptera	Solenopsis invicta	Sol i 3		AF012919	AAB65434	P35778
+P35777	602	Hymenoptera	Solenopsis invicta	Sol i 4		AF103805	AAC97369	P35777
+P35776	603	Hymenoptera	Solenopsis richteri	Sol r 2			P35776	P35776
+P35779	604	Hymenoptera	Solenopsis richteri	Sol r 3			P35779	P35779
+A5X2H7	605	Hymenoptera	Solenopsis saevissima	Sol s 2		DQ342279	ABC58726	A5X2H7
+P15476	607	Solanales	Solanum tuberosum	Sola t 1	Patatin	X13179	CAA31576	P15476
+P16348	608	Solanales	Solanum tuberosum	Sola t 2	Cathepsin D inhibitor PDI		P16348	P16348
+O24383	609	Solanales	Solanum tuberosum	Sola t 3	Cysteine protease inhibitor	U59272	AAB63099	O24383
+P30941	610	Solanales	Solanum tuberosum	Sola t 4	Serine protease inhibitor 7	D17329	BAA04149	P30941
+A0A077B564	611	Poales	Sorghum halepense	Sor h 1	Beta-expansin	KF887425	AIL01316	A0A077B564
+S43242	612	Lamiales	Syringa vulgaris	Syr v 1	Ole e 1-related protein	X76541	S43242	
+P58171	613	Lamiales	Syringa vulgaris	Syr v 3	Polcalcin	AF078681	AAK01144	P58171
+E0X9F6	614	Lepidoptera	Thaumetopoea pityocampa	Tha p 1			E0X9F6	E0X9F6
+C6GKU3	615	Perciformes	Thunnus albacares	Thu a 1	Beta-parvalbumin	FM178217	CAQ72967	C6GKU3
+P49232	617	Poales	Triticum aestivum	Tri a 12	Profilin	X89825	CAA61943	P49232
+P10968	619	Poales	Triticum aestivum	Tri a 18	Agglutinin isolectin 1	M25536	AAA34256	P10968
+Q402I5	620	Poales	Triticum aestivum	Tri a 19	"Omega-5 gliadin, seed storage protein"	AB181300	BAE20328	Q402I5
+Q9LDX4	621	Poales	Triticum aestivum	Tri a 25	Thioredoxin	AJ404845	CAB96931	Q9LDX4
+P10388	622	Poales	Triticum aestivum	Tri a 26	High molecular weight glutenin	X12928	CAA31395	P10388
+Q7Y1Z2	623	Poales	Triticum aestivum	Tri a 27	Thiol reductase homologue	FN393742	CAY85464	Q7Y1Z2
+Q4W0V7	624	Poales	Triticum aestivum	Tri a 28	Dimeric alpha-amylase inhibitor 0.19	AJ966333	CAI84642	Q4W0V7
+C7C4X0	625	Poales	Triticum aestivum	Tri a 29	Tetrameric alpha-amylase inhibitor CM1/CM2	FN429984	CAZ76052	C7C4X0
+P17314	626	Poales	Triticum aestivum	Tri a 30	Tetrameric alpha-amylase inhibitor CM3	X17574	CAA35597	P17314
+Q9UW97	627	Onygenales	Trichophyton rubrum	Tri r 2	Putative secreted alkaline protease Alp1	AF082515	AAD52013	Q9UW97
+Q9UW98	628	Onygenales	Trichophyton rubrum	Tri r 4	Serine protease	AF082514	AAD52012	Q9UW98
+P80514	630	Onygenales	Trichophyton tonsurans	Tri t 4	Serine protease		P80514	P80514
+Q9U6R6	631	Hemiptera	Triatoma protracta	Tria p 1	Procalin	AF179004	AAF07903	Q9U6R6
+Q6IUP9	632	Astigmata	Tyrophagus putrescentiae	Tyr p 10	Tropomyosin	AY623832	AAT40866	Q6IUP9
+Q66RP5	633	Astigmata	Tyrophagus putrescentiae	Tyr p 13	Fatty-acid binding protein	AY710432	AAU11502	Q66RP5
+O02380	634	Astigmata	Tyrophagus putrescentiae	Tyr p 2	NPC2 family	Y12690	CAA73221	O02380
+D2DGW3	635	Astigmata	Tyrophagus putrescentiae	Tyr p 34	Troponin C	FJ534553	ACL36923	D2DGW3
+P35783	636	Hymenoptera	Vespula flavopilosa	Ves f 5	Antigen 5		P35783	P35783
+P35784	637	Hymenoptera	Vespula germanica	Ves g 5	Antigen 5	AM083317	CAJ28930	P35784
+P51528	638	Hymenoptera	Vespula maculifrons	Ves m 1	Phospholipase A1B		P51528	P51528
+P0CH89	639	Hymenoptera	Vespula maculifrons	Ves m 2	Hyaluronidase		P0CH89	P0CH89
+P35760	640	Hymenoptera	Vespula maculifrons	Ves m 5	Antigen 5		P35760	P35760
+P35785	641	Hymenoptera	Vespula pensylvanica	Ves p 5	Antigen 5		P35785	P35785
+P0CH86	642	Hymenoptera	Vespula squamosa	Ves s 1	Phospholipase A1B		P0CH86	P0CH86
+P35786	643	Hymenoptera	Vespula squamosa	Ves s 5	Antigen 5		P35786	P35786
+P49369	644	Hymenoptera	Vespula vulgaris	Ves v 1	Phospholipase A1B	L43561	AAB48072	P49369
+P49370	645	Hymenoptera	Vespula vulgaris	Ves v 2	Hyaluronidase	AJ920395	CAI77218	P49370
+B1A4F7	646	Hymenoptera	Vespula vulgaris	Ves v 3	Dipeptidylpeptidase IV	EU420987	ACA00159	B1A4F7
+Q05110	647	Hymenoptera	Vespula vulgaris	Ves v 5	Antigen 5	M98858	AAA30333	Q05110
+P35787	648	Hymenoptera	Vespula vidua	Ves vi 5	Antigen 5		P35787	P35787
+P0CH87	649	Hymenoptera	Vespa crabro	Vesp c 1	Phospholipase A1B		P0CH87	P0CH87
+P35781	650	Hymenoptera	Vespa crabro	Vesp c 5	Antigen 5		P35781	P35781
+P81657	652	Hymenoptera	Vespa mandarinia	Vesp m 5	Antigen 5		P81657	P81657
+Q2VU97	653	Fabales	Vigna radiata	Vig r 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	AY792956	AAX19889	Q2VU97
+Q850K5	654	Vitales	Vitis vinifera	Vit v 1	Non-specific lipid transfer protein 1 (nsLTP1)	AF467946	AAO33394	Q850K5
+B9W4C2	655	Perciformes	Xiphias gladius	Xip g 1	Beta-parvalbumin	FM202668	CAR48256	B9W4C2
+Q07154	656	Poales	Zea mays	Zea m 1	Beta-expansin	L14271	AAA33496	Q07154
+P35081	657	Poales	Zea mays	Zea m 12	Profilin	X73279	CAA51718	P35081
+AAA33493	658	Poales	Zea mays	Zea m 14	Nonspecific lipid-transfer protein 1	J04176	AAA33493	P19656-1
+Q4W1F7	659	Poales	Zea mays	Zea m 25	thioredoxin	AJ890020	CAI64400	Q4W1F7
+Q2VST0	660	Rosales	Ziziphus mauritiana	Ziz m 1	Class III chitinase	AY839230	AAX40948	Q2VST0
+B3V0K8	662	Pleosporales	Curvularia lunata (Cochliobolus lunatus)	Cur l 4	Subtilisin like serine protease	EU622631	ACF19589	B3V0K8
+E3SH28	663	Rosales	Prunus dulcis	Pru du 6	"Amandin, 11S globulin legumin-like protein"	GU059260	ADN39440	E3SH28
+B6CQT7	664	Rosales	Prunus persica	Pru p 2	Thaumatin-like protein	EU424259	ACE80959	B6CQT7
+E5D2Z5	665	Carnivora	Felis domesticus (F. catus)	Fel d 7	lipocalin	GU108332	ADK56160	E5D2Z5
+Q9ZS24	666	Fagales	Castanea sativa	Cas s 9	Cytosolic class I small heat shock protein	AJ582679	CAE46905	Q9ZS24
+D2K835	667	Ascaridida	Anisakis simplex	Ani s 10	Protein with unknown function	GU187358	ACZ95445	D2K835
+P86360	668	Lepidoptera	Thaumetopoea pityocampa	Tha p 2	Protein with unknown function		P86360	P86360
+Q9NBA6	669	Diptera	Glossina morsitans	Glo m 5	"Tsetse antigen 5, CAP (cysteine-rich secretory proteins, antigen 5 and pathogenesis-related 1) protein superfamily member"	AF259957	AAF82096	Q9NBA6
+Q2F5T5	670	Lepidoptera	Bombyx mori	Bomb m 1	Arginine kinase	DQ272299	ABB88514	Q2F5T5
+Q2PS07	683	Caryophyllales	Fagopyrum esculentum	Fag e 2	2S albumin	DQ304682	ABC18306	Q2PS07
+A0AT29	684	Fabales	Lens culinaris	Len c 3	Nonspecific lipid transfer protein type 1	AY793554	AAX35807	A0AT29
+D8VPP5	685	Lamiales	Olea europaea	Ole e 11	Pectin methylesterase	GU084173	ACZ57582	D8VPP5
+D4IHC0	686	Asterales	Ambrosia artemisiifolia	Amb a 4	Defensin-like protein linked to polyproline-rich region	FN687761	CBK52317	D4IHC0
+E7CGC4	688	Decapoda	Penaeus monodon	Pen m 4	Sarcoplasmic calcium binding protein	HM034315	ADV17343	E7CGC4
+G8Z407	689	Capnodiales	Cladosporium cladosporioides	Cla c 14	Transaldolase	GQ906475	ADK47394	G8Z407
+G8Z408	690	Eurotiales	Penicillium chrysogenum	Pen ch 35	Transaldolase	GQ925430	ADK27483	G8Z408
+E7BQV3	691	Malpighiales	Hevea brasiliensis	Hev b 14	Hevamine	GU188389	ADR82196	E7BQV3
+E1A683	692	Decapoda	Penaeus monodon	Pen m 3	Myosin light chain 2	HM034314	ADV17342	E1A683
+E7CGC5	694	Decapoda	Penaeus monodon	Pen m 6	Troponin C	HM034316	ADV17344	E7CGC5
+K4CWC5	695	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 4	"Pathogenesis-related protein, PR-10, Bet v 1 family member, TSI-1"	KF682291	AHC08073	K4CWC5
+B7TWE6	696	Fagales	Fagus sylvatica	Fag s 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	FJ390846	ACJ23864 	B7TWE6
+E2GL17	697	Fagales	Ostrya carpinifolia	Ost c 1	"Pathogenesis-related protein, PR-10, Bet v 1 family member"	HM366608	ADK39021	E2GL17
+F6K0R4	702	Carnivora	Felis domesticus (F. catus)	Fel d 8	Latherin-like protein	HM187582	ADM15668	F6K0R4
+P86712	703	Psocoptera	Liposcelis bostrychophila	Lip b 1	unknown function		P86712	P86712
+E0XKJ9	704	Diptera	Tabanus yao	Tab y 2	Hyaluronidase	GU321119	ADM18346	E0XKJ9
+E0XKJ8	705	Diptera	Tabanus yao	Tab y 5	"Antigen 5-related protein, CAP (cysteine-rich secretory proteins, antigen 5 and pathogenesis-related 1) protein superfamily member"	GU321118	ADM18345	E0XKJ8
+E9RFF3	706	Ascaridida	Anisakis simplex	Ani s 11	Protein with unknown function	AB555754	BAJ78220	E9RFF3
+E9RFF6	707	Ascaridida	Anisakis simplex	Ani s 12	Protein with unknown function	AB555757	BAJ78223	E9RFF6
+Q90YL0	708	Gadiformes	Gadus morhua	Gad m 1	Beta-parvalbumin	AY035584	AAK63086	Q90YL0
+H2B3G5	709	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 6	Lipocalin	HE653774	CCF72371	H2B3G5
+E1XUQ3	710	Lepidoptera	Plodia interpunctella	Plo i 2	Thioredoxin	FR681573	CBW45298	E1XUQ3
+C6ZDB5	711	Astigmata	Tyrophagus putrescentiae	Tyr p 3	Trypsin	EU302595	ABZ81991	C6ZDB5
+CBY17558	712	Decapoda	Pandalus borealis	Pan b 1	Tropomyosin	FR728681	CBY17558	E5BBS3
+F1JZ10	713	Diptera	Tabanus yao	Tab y 1	Apyrase	JF308210	ADX78255	F1JZ10
+D2TGC3	714	Poales	Triticum aestivum	Tri a 15	Monomeric alpha-amylase inhibitor 0.28	FN435985	CBA13560	D2TGC3
+D2T2K3	715	Poales	Triticum aestivum	Tri a 21	Alpha-beta-gliadin	FN391140	CAY54134	D2T2K3
+Q9FS79	716	Poales	Triticum aestivum	Tri a 31	Triosephosphate-isomerase	AJ278243	CAC14917	Q9FS79
+Q6W8Q2	717	Poales	Triticum aestivum	Tri a 32	1-cys-peroxiredoxin	AY304482	AAQ74769	Q6W8Q2
+Q9ST57	718	Poales	Triticum aestivum	Tri a 33	Serpin	AJ245879	CAB52710	Q9ST57
+C7C4X1	719	Poales	Triticum aestivum	Tri a 34	Glyceraldehyde-3-phosphate-dehydrogenase	FN429985	CAZ76054	C7C4X1
+D2TE72	720	Poales	Triticum aestivum	Tri a 35	Dehydrin	FN393741	CAY85463	D2TE72
+D5LGB3	721	Eurotiales	Aspergillus versicolor	Asp v 13	Extracellular alkaline serine protease	GU827714	ADE74975	D5LGB3
+C7E9W0	722	Hypocreales	Stachybotrys chartarum	Sta c 3	Extracellular alkaline Mg-dependent exodesoxyribonuclease	GQ258855	ACT37324	C7E9W0
+D7REL9	723	Gentianales	Coffea arabica	Cof a 1	Class III chitinase	HM051339	ADH10372	D7REL9
+E9NX73	724	Caryophyllales	Fagopyrum tataricum	Fag t 2	2S albumin	HQ829975	ADW27428	E9NX73
+P86809	725	Apiales	Apium graveolens	Api g 6	Non-specific lipid transfer protein type 2		P86809	P86809
+M1E7Y0	726	Malpighiales	Manihot esculenta	Man e 5	Glutamic acid rich protein	JF710639	AEE98392	M1E7Y0
+P86431	727	Salmoniformes	Oncorhynchus mykiss	Onc m 1	Beta-parvalbumin		P86431	P86431
+B2Y2Q7	728	Poales	Triticum aestivum	Tri a 36	Low molecular weight glutenin GluB3-23	JF776367	AEH31546	B2Y2Q7
+F4MJM3	729	Poales	Secale cereale	Sec c 5	Group 5 grass pollen allergen	FN555204	CBG76811	F4MJM3
+P86875	730	Hymenoptera	Vespa magnifica	Vesp ma 2	Hyaluronidase	FR749885	CBY83816	P86875
+B3GM11	731	Hymenoptera	Apis mellifera	Api m 11	Major royal jelly protein 	NM_001011564	NP_001011564	B3GM11
+P86870	732	Hymenoptera	Vespa magnifica	Vesp ma 5	"Antigen 5, member of PR-1 family"	FR774918	CBY93636	P86870
+B5DGQ7	733	Salmoniformes	Salmo salar	Sal s 2	Beta-Enolase	BT043816	ACH70931	B5DGQ7
+Q9T0P1	734	Poales	Triticum aestivum	Tri a 37	Alpha purothionin	X96446	CAA65313	Q9T0P1
+Q868N5	735	Hymenoptera	Apis mellifera	Api m 12	Vitellogenin	AJ517411	CAD56944	Q868N5
+G8IIT0	736	Hymenoptera	Vespula vulgaris	Ves v 6	Vitellogenin	JN794080	AER70365	G8IIT0
+H2E5X2	737	Eurotiales	Penicillium crustosum	Pen cr 26	60S acidic ribosomal phosphoprotein P1	JN791438	AEX34122	H2E5X2
+H2DF86	738	Apiales	Daucus carota	Dau c 5	Isoflavone reductase-like protein	JN591770	AEY79728	H2DF86
+A5HIX6	739	Caryophyllales	Fagopyrum esculentum	Fag e 3	Vicilin-like	EF532322	ABQ10638	A5HIX6
+Q198W3	740	Fabales	Vigna radiata	Vig r 2	8S Globulin (Vicilin)	DQ538335	ABG02262	Q198W3
+Q43680	741	Fabales	Vigna radiata	Vig r 4	Seed albumin	X70671	CAA50008	Q43680
+BAA74451	742	Fabales	Vigna radiata	Vig r 6	"Cytokinin-specific binding protein (CSBP), Bet v 1 family member"	AB012218	BAA74451	Q9ZWP8
+P69197	745	Brassicales	Brassica rapa	Bra r 5	Polcalcin	D63153	BAA09634	P69197
+D8Q9M3	746	Agaricales	Schizophyllum commune	Sch c 1	Glucoamylase	XM_003030545	XP_003030591	D8Q9M3
+K4PEK4	747	Perciformes	Oreochromis mossambicus	Ore m 4	Tropomyosin	JX193712	AFV53352	K4PEK4
+B3A0L6	748	Gadiformes	Gadus morhua	Gad m 2	Beta-enolase		B3A0L6	B3A0L6
+P86980	749	Gadiformes	Gadus morhua	Gad m 3	Aldolase A		P86980	P86980
+B5DGM7	750	Salmoniformes	Salmo salar	Sal s 3	Aldolase A	BT043786	ACH70901	B5DGM7
+P86978	751	Perciformes	Thunnus albacares	Thu a 2	Beta-enolase		P86978	P86978
+P86979	752	Perciformes	Thunnus albacares	Thu a 3	Aldolase A		P86979	P86979
+B3EWP3	753	Fabales	Arachis hypogaea	Ara h 12	Defensin	EY396089		 B3EWP3
+B3EWP4	754	Fabales	Arachis hypogaea	Ara h 13	Defensin	EY396019		B3EWP4
+P02662	756	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 9	alphaS1-casein	NM_181029	NP_851372 	P02662
+P02663	757	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 10	alphaS2-casein	NM_174528	NP_776953	P02663
+P02666	758	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 11	beta-casein	XM_005902037	XP_005902099	P02666
+P02668	759	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 12	kappa-casein	NM_174294 	NP_776719	P02668
+P86888	761	Rosales	Prunus persica	Pru p 7	Gibberellin-regulated protein (PF02704)		P86888	P86888
+D0VNY7	762	Blattodea	Blattella germanica	Bla g 3	"Hemocyanin, Arylphorins/TO Arthropod hemocyanins"	GU086323	ACY40651	D0VNY7
+C6K8D1	763	Fabales	Glycine max	Gly m 7	Seed biotinylated protein	GQ168590	ACS49840	C6K8D1
+D5MU14	764	Salmoniformes	Oncorhynchus keta	Onc k 5	beta-prime-component of vitellogenin	AB560769	BAJ07603	D5MU14
+Q6WDN9	765	Rodentia	Cavia porcellus	Cav p 4	Serum albumin	AY294645	AAQ20088	Q6WDN9
+S0BDX9	766	Rodentia	Cavia porcellus	Cav p 6	Lipocalin	FN256286	CAX62131	S0BDX9
+Q9GK63	767	Lagomorpha	Oryctolagus cuniculus	Ory c 3	Lipophilin	AF308618	AAG42806	Q9GK63
+M1H607	768	Decapoda	Portunus pelagicus	Por p 1	Tropomyosin	JX874982	AGE44125	M1H607
+J7QW61	769	Poales	Triticum aestivum	Tri a 39	Serine protease inhibitor-like protein	HE972340	CCK33471	J7QW61
+Q4JK69	770	Astigmata	Dermatophagoides pteronyssinus	Der p 15	Chitinase-like protein	DQ078741	AAY84565	Q4JK69
+Q4JK71	771	Astigmata	Dermatophagoides pteronyssinus	Der p 18	Chitin-binding protein	DQ078739	AAY84563	Q4JK71
+M9RZ95	772	Astigmata	Dermatophagoides farinae	Der f 24	Ubiquinol-cytochrome c reductase binding protein homologue	KC669700	AGI78542	M9RZ95
+A0A059STC4	773	Myrtales	Punica granatum	Pun g 1	Non-specific lipid transfer protein 1 (nsLTP1)	KC550307	AHB19227	A0A059STC4
+AGL34967	774	Gentianales	Coffea arabica	Cof a 2	Metallothionein type 2	KC570455	AGL34967	AGL34967
+R4MUV4	775	Gentianales	Coffea arabica	Cof a 3	Metallothionein type 3	KC570456	AGL34968	R4MUV4
+Q5IRB2	776	Perciformes	Lates calcarifer	Lat c 1	Beta-parvalbumin	AY688372	AAV97933	Q5IRB2
+P46436	777	Ascaridida	Ascaris lumbricoides	Asc l 13	Glutathione S-transferase (GST)	BU585392	P46436	P46436 (Ascaris suum GST)
+A0A0U1VZC8	778	Fagales	Corylus avellana	Cor a 6	Isoflavone reductase homologue	KC151261	AGU09563	A0A0U1VZC8
+Q2L7A6	779	Blattodea	Blattella germanica	Bla g 11	Alpha-amylase	DQ355516	ABC68516	Q2L7A6
+D3XNR9	780	Decapoda	Macrobrachium rosenbergii	Mac r 1	tropomyosin	GU369816	ADC55380	D3XNR9
+Q8UUS3	781	Cypriniformes	Cyprinus carpio	Cyp c 1	beta-parvalbumin	AJ292211	CAC83658	Q8UUS3
+U6C8D6	782	Lagomorpha	Oryctolagus cuniculus	Ory c 4	Lipocalin	FR874845	CCC15303	U6C8D6
+P21568	783	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 5	Cyclophilin	M55019	AAA63543	P21568
+V5LU01	784	Asterales	Ambrosia artemisiifolia	Amb a 11	Cysteine protease	KF528831 	AHA56102	V5LU01
+P19594	785	Fabales	Glycine max	Gly m 8	2S albumin	 AF005030	AAB71140	P19594
+C8CGT7	786	Astigmata	Blomia tropicalis	Blo t 8	Glutathione S-transferase	GQ398117	ACV04860	C8CGT7
+AHY02994	787	Hypocreales	Fusarium proliferatum	Fus p 4	Transaldolase	KF151224 	AHY02994	
+C0HJF9	788	Ericales	Actinidia deliciosa	Act d 12	"Cupin, 11S globulin"			C0HJF9.1
+P86254	790	Pleosporales	Alternaria alternata	Alt a 14	Manganese superoxide dismutase	KC923297	AGS80276	P86254
+B2GM84	791	Astigmata	Dermatophagoides farinae	Der f 21		KF732965 (to be released upon publication)	AHC94806	B2GM84
+W0USW9	792	Malpighiales	Hevea brasiliensis	Hev b 15	Serine protease inhibitor	HF937118	CCW27997	W0USW9
+A0A077B155	793	Poales	Sorghum halepense	Sor h 13	Exopolygalacturonase (Glycosyl hydrolase 28)	KF887429	AIL01320	A0A077B155
+W0U0V5	794	Rosales	Cannabis sativa	Can s 3	Non-specific lipid transfer protein type 1	HE972341	CCK33472	W0U0V5
+A0A023W2L7	795	Fabales	Prosopis juliflora	Pro j 2	Profilin	KJ462467	AHY24177	A0A023W2L7
+A0A060N479	796	Poales	Triticum aestivum	Tri a 20	Gamma gliadin	AB766206	BAN29066	A0A060N479
+K9USK2	797	Ascaridida	Anisakis simplex	Ani s 13	Hemoglobin	JX860676.1	AFY98826	K9USK2
+E7BQV5	798	Blattodea	Periplaneta americana	Per a 2	aspartic protease-like and inactive aspartic protease-like	GU188391	ADR82198	E7BQV5
+A0A0U1Y1N5	799	Hypocreales	Fusarium proliferatum	Fus p 9	Vacuolar serine protease	KJ462778	AJA79001	A0A0U1Y1N5
+M4M2H6	800	Decapoda	Melicertus latisulcatus	Mel l 1	Tropomyosin	JX171685	AGF86397	M4M2H6
+A0A0A0REA1	801	Caryophyllales	Kochia scoparia	Koc s 2	profilin	KM266373	AIV43661.1	A0A0A0REA1
+A0A0A0RCW1	802	Fabales	Acacia farnesiana (Vachellia farnesiana)	Aca f 2	Profilin	KM266374.1	AIV43662.1	A0A0A0RCW1
+P46436	803	Ascaridida	Ascaris suum	Asc s 13	Glutathione S-transferase	X75502.1	CAA53218	P46436
+I1CLC6	805	Mucorales	Rhizopus oryzae	Rhi o 1	Aspartyl endopeptidase	KM459700	AIS82656	I1CLC6
+C0HJM6	806	Malvales	Triplochiton scleroxylon	Trip s 1	Endochitinase			C0HJM6
+AGC56215	807	Astigmata	Dermatophagoides farinae	Der f 8	Glutathione S-transferase	KC305499	AGC56215	
+AIO08850	808	Astigmata	Dermatophagoides farinae	Der f 20	Arginine kinase	KM009994.1	AIO08850.1	
+L7UZA7	809	Astigmata	Dermatophagoides farinae	Der f 25	Triosephosphate isomerase	KC305500.1	AGC56216	L7UZA7
+A1KXG2	811	Astigmata	Dermatophagoides farinae	Der f 29	Peptidyl-prolyl cis-trans isomerase (cyclophilin)	AY283280.1	AAP35065	A1KXG2
+AIO08851	812	Astigmata	Dermatophagoides farinae	Der f 27	Serpin	KM009995	AIO08851.1	
+L7V065	813	Astigmata	Dermatophagoides farinae	Der f 28	Heat Shock Protein	KC305502	AGC56218.1	L7V065
+L7UZ91	814	Astigmata	Dermatophagoides farinae	Der f 30	Ferritin	KC305503	AGC56219.1	L7UZ91
+AIO08852	815	Astigmata	Dermatophagoides farinae	Der f 26	Myosin alkali light chain	KM009996	AIO08852.1	
+AIO08870	816	Astigmata	Dermatophagoides farinae	Der f 31	Cofilin	KM010014	AIO08870.1	
+AIO08849	817	Astigmata	Dermatophagoides farinae	Der f 32	Secreted inorganic pyrophosphatase	KM009993	AIO08849.1	
+AIO08861	818	Astigmata	Dermatophagoides farinae	Der f 33	alpha-tubulin	KM010005	AIO08861	
+A0A0F6N3V8	820	Pleosporales	Alternaria alternata	Alt a 15	Serine protease	KJ558435	AHZ97469	A0A0F6N3V8
+XP_004232333	821	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 6	Non-specific lipid transfer protein type 2 (nsLTP2)		XP_004232333	K4BBD9
+A0A0S3Q267	824	Ascaridida	Anisakis simplex	Ani s 14	3rd stage larval protein unknown function	LC027371	BAT62430	A0A0S3Q267
+Q9QXU1	825	Rodentia	Mesocricetus auratus	Mes a 1	lipocalin	AF183407.2	AAD55792	Q9QXU1
+AEX31649	826	Astigmata	Chortoglyphus arcuatus	Cho a 10	Tropomyosin	JN596422	AEX31649	
+Q9AXI1	827	Fabales	Arachis hypogaea	Ara h 14	Oleosin	AF325917	AAK13449	Q9AXI1
+Q647G3	828	Fabales	Arachis hypogaea	Ara h 15	Oleosin	AY722696	AAU21501	Q647G3
+P02604	829	Galliformes	Gallus domesticus (G. gallus)	Gal d 7	Myosin light chain 1f	AH002460S1	K02608.1	P02604
+A0A509ZX51	830	Fabales	Arachis hypogaea	Ara h 16	non-specific Lipid Transfer Protein 2	KX592166	ASU04353	A0A509ZX51
+A0A510A9S3	831	Fabales	Arachis hypogaea	Ara h 17	non-specific Lipid Transfer Protein 1	KX592165	ASU04352	A0A510A9S3
+XP_004229753	832	Solanales	Solanum lycopersicum (Lycopersicon esculentum)	Sola l 7	nsLTP type 1		XP_004229753.1	
+AKH04310	833	Blattodea	Periplaneta americana	Per a 11	alpha-amylase	KR019685	AKH04310	
+AKH04311	834	Blattodea	Periplaneta americana	Per a 12	Chitinase	KR019686	AKH04311	
+Q17H75	835	Diptera	Aedes aegypti	Aed a 10	Tropomyosin	XM_001655904.1	XP_001655954.1	Q17H75
+A0A0K1SC10	836	Caryophyllales	Amaranthus retroflexus	Ama r 1	Ole e 1- like protein	KR870437	AKV72168	A0A0K1SC10
+A0A0K1SC24	837	Fabales	Acacia farnesiana (Vachellia farnesiana)	Aca f 1	Ole e 1-like protein	KR870435.1	AKV72166.1	A0A0K1SC24
+A0A0K1SC44	838	Caryophyllales	Kochia scoparia	Koc s 1	Ole e 1- like protein	KR870438	AKV72169	A0A0K1SC44
+AKV72167	839	Fabales	Prosopis juliflora	Pro j 1	Ole e 1- like protein		AKV72167.1	
+Q41540	840	Poales	Triticum aestivum	Tri a 40	Chloroform/methanol-soluble (CM) 17 protein [alpha-amylase inhibitor]	X59791.1	CAA42453.1	Q41540
+Q5QKR2	841	Decapoda	Eriocheir sinensis	Eri s 2	ovary development-related protein	AY185917	AAO73305	Q5QKR2
+CTQ87571	842	Pinales	Pinus pinea	Pin p 1	2S albumin	LN876267	CTQ87571.1	
+C0HLA0	843	Cupressales	Chamaecyparis obtusa	Cha o 3	Cellulase (glycosyl hydrolase)	HV942721	GH5FP_CHAOB	C0HLA0
+A0A0G3F2P1	845	Poales	Triticum aestivum	Tri a 41	Mitochondrial ubiquitin ligase activator of NFKB 1	KP399785	AKJ77988.1	A0A0G3F2P1
+A0A0G3F2F5	846	Poales	Triticum aestivum	Tri a 42	Hypothetical protein from cDNA	KP399783	AKJ77986.1	A0A0G3F2F5
+A0A0G3F5F7	847	Poales	Triticum aestivum	Tri a 43	Hypothetical protein from cDNA	KP399784	AKJ77987.1	A0A0G3F5F7
+A0A0G3F720	848	Poales	Triticum aestivum	Tri a 44	Endosperm transfer cell specific PR60 precursor     	KP399787	AKJ77990.1	A0A0G3F720
+A0A0G3F715	849	Poales	Triticum aestivum	Tri a 45	Elongation factor 1  (EIF1)	KP399782	AKJ77985.1	A0A0G3F715
+Q28895	850	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 7	"Epididymal Secretory Protein E1, or  Niemann Pick type C2 protein"	945178	AAB34263.1	Q28895
+C0ITL3	851	Hymenoptera	Pachycondyla chinensis	Pac c 3	Antigen 5	EU516327	ACA96507.1	C0ITL3
+A0A077B7S9	852	Poales	Sorghum halepense	Sor h 2	Expansin-like protein; grass pollen group 2 allergen	KF887427	AIL01318	A0A077B7S9
+D4P2Y4	853	Hymenoptera	Polybia paulista	Poly p 5	Venom group 5		C0HJV9	D4P2Y4
+P08835	854	Cetartiodactyla	Sus scrofa	Sus s 1	Serum albumin	M36787	AAA30988.1	P08835
+A0A0K2GUJ4	855	Astigmata	Dermatophagoides pteronyssinus	Der p 24	biquinol-cytochrome c reductase binding protein	KP893174	ALA65345.1	A0A0K2GUJ4
+P13080	856	Diptera	Aedes aegypti	Aed a 4	alpha-glucosidase	M30442.1	P13080	
+Q16XK7	857	Diptera	Aedes aegypti	Aed a 5	Sarcoplasmic Ca+ (EF-hand) binding protein	XM_001653412.1	XP_001653462.1	Q16XK7
+Q1HR57	858	Diptera	Aedes aegypti	Aed a 6	Porin3	XM_001654093.1	XP_001654143.1	Q1HR57
+Q16TN9	859	Diptera	Aedes aegypti	Aed a 7	Undefined protein	XM_001654241.1	XP_001654291.1	Q16TN9
+Q1HR69	860	Diptera	Aedes aegypti	Aed a 8	Heat Shock cognate protein-70	DQ440225.1	ABF18258.1	Q1HR69
+C0HJX6	861	Lamiales	Plantago lanceolata	Pla l 2	Profilin			C0HJX6
+ALM24136	862	Mucorales	Rhizopus oryzae	Rhi o 2	Cyclophilin	KT734861	ALM24136	
+P07322	864	Galliformes	Gallus domesticus (G. gallus)	Gal d 9	Beta-enolase		NP_990450	P07322
+C1L370	865	Galliformes	Gallus domesticus (G. gallus)	Gal d 8	alpha-parvalbumin 	FM994924	CAX32963	C1L370
+A0A0S3B0K0	866	Arecales	Cocos nucifera	Coc n 1	vicilin-like protein	KT880469	ALQ56981.1	A0A0S3B0K0
+Q03168	867	Diptera	Aedes aegypti	Aed a 11	Lysosomal aspartic protease	XM_001657506.1	XP_001657556.1	Q03168
+E0A8N8	868	Astigmata	Dermatophagoides pteronyssinus	Der p 13	Cytosolic Fatty Acid Binding Protein	HM560018	ADK92390	E0A8N8
+AHX03180	869	Astigmata	Dermatophagoides farinae	Der f 4	Alpha-amylase	KJ400030	AHX03180	
+B3STU4	870	Fagales	Carya illinoinensis	Car i 2	Vicilin-like protein	EF689893	ABV49590	B3STU4
+AJG44053	871	Fabales	Pisum sativum	Pis s 3	nsLTP	KJ569141	AJG44053	C0HJR7 
+AOD75395	872	Astigmata	Tyrophagus putrescentiae	Tyr p 28	Heat shock protein	KX060611	AOD75395.1	
+AOD75396	873	Astigmata	Tyrophagus putrescentiae	Tyr p 35	Aldehyde dehydrogenase	KX060612	AOD75396.1	
+A0A1B2YLJ4	874	Astigmata	Tyrophagus putrescentiae	Tyr p 36	Profilin	KX060615	AOD75399.1	A0A1B2YLJ4
+APD76154	876	Fagales	Juglans regia	Jug r 5	PR-10	KX034087.1	APD76154.1	
+A0A0X9C7K4	877	Asterales	Parthenium hysterophorus	Par h 1	Defensin-like protein linked to polyproline-rich region	KM267639	AKF12278	A0A0X9C7K4
+S5ZYD3	878	Rodentia	Phodopus sungorus	Phod s 1	lipocalin	KF148615	AGT28425	S5ZYD3
+A0A1B1V0G7	879	Scombriformes	Rastrelliger kanagurta	Ras k 1	Parvalbumin	KX527884	ANW10058	A0A1B1V0G7
+BAV90601	880	Astigmata	Dermatophagoides farinae	Der f 34	enamine/imine deaminase	LC120618	BAV90601.1	
+BAX34757	881	Astigmata	Dermatophagoides farinae	Der f 35		LC175222	BAX34757.1	
+V9VGU0	882	Pinales	Pinus koraiensis	Pin k 2	Vicilin	KF530834	AHC94918	V9VGU0
+Q5XWE1	883	Cucurbitales	Citrullus lanatus	Citr l 2	Profilin	AY730591	AAU43733	Q5XWE1
+XP_016648029	886	Rosales	Prunus mume	Pru m 7	gibberellin-regulated protein		XP_016648029.1	
+P29022	887	Poales	Zea mays	Zea m 8	Class IV chitinase	AAA33444	ACX37090	P29022
+A0A1L6K371	888	Fagales	Juglans nigra	Jug n 4	Legumin	KX891230	APR62629	A0A1L6K371
+C0HKB1	889	Cupressales	Cupressus sempervirens	Cup s 2	Polygalacturonase			C0HKB1
+ABC86902	890	Blattodea	Blattella germanica	Bla g 9	Arginine kinase	DQ358231.1	ABC86902	
+APG42675	892	Archaeogastropoda	Haliotis laevigata x Haliotis rubra	Hal l 1	Tropomyosin	KX961689	APG42675	
+A0A291KZC2	893	Astigmata	Dermatophagoides farinae	Der f 36		KY465506	ATI08931.1	A0A291KZC2
+A0A291KZD3	894	Astigmata	Dermatophagoides pteronyssinus	Der p 36		KY465507	ATI08932.1	A0A291KZD3
+XP_018814692	895	Fagales	Juglans regia	Jug r 6	vicilin-like cupin	XM_018959147.1 	XP_018814692.1	
+P86687	896	Hymenoptera	Polybia paulista	Poly p 2	Hyaluronidase			P86687
+ALE34025	897	Caryophyllales	Salsola kali	Sal k 7	Polcalcin	KT254655	ALE34025	
+A0A2H4HHY6	898	Asterales	Artemisia annua	Art an 7	Putative Galactose Oxidase	KY428925	ARQ16437	A0A2H4HHY6
+XP_015174445	899	Hymenoptera	Polistes dominulus	Pol d 3	Dipeptidyl peptidase IV	XM_015318959	XP_015174445	
+P0DKH7	900	Caryophyllales	Fagopyrum esculentum	Fag e 4	Antimicrobial Peptide			P0DKH7
+ARS33724	901	Caryophyllales	Salsola kali	Sal k 6	Polygalacturonase	KY883988	ARS33724	
+ARX70262	902	Ostreoida	Crassostrea gigas	Cra g 1	tropomyosin	KY549366.1	ARX70262.1	
+Q6QJL1	903	Caryophyllales	Fagopyrum esculentum	Fag e 5	Vicilin-like protein	AY536051	AY536051.1	Q6QJL1
+A0A1B2H9Q1	904	Asterales	Ambrosia artemisiifolia	Amb a 12	Enolase	KU593514.1	ANZ22901.1	A0A1B2H9Q1
+ASX95438	905	Astigmata	Blomia tropicalis	Blo t 7	Bactericidal permeability-increasing like protein	MF740745	ASX95438	
+AUW37958	906	Blattodea	Periplaneta americana	Per a 5	Glutathione S-transferase	MG255130	AUW37958.1	
+A0A2L1DGQ3	907	Asterales	Artemisia argyi	Art ar  2	PR-1	MF326217	AVD29823	A0A2L1DGQ3
+A0A251RNJ1	908	Asterales	Helianthus annuus	Hel a 6	Pectate Lyase		OTF85892	A0A251RNJ1
+P11376	909	Perissodactyla	Equus caballus	Equ c 6	Lysozyme			P11376
+XP_014705584	910	Perissodactyla	Equus asinus	Equ a 6	Lysozyme		XP_014705584.1	
+W8PPL3	911	Lamiales	Olea europaea	Ole e 14	Polygalacturonase	KC920918 	Ahl24656.1	W8PPL3
+A0A2I4DNN6	912	Fagales	Juglans regia	Jug r 7	Profilin	MG366484	AVD53651	A0A2I4DNN6
+C9EA45	913	Brassicales	Carica papaya	Cari p 1	endo-polygalacturonase	GQ479794	ACV85695	C9EA45
+XP_015179722	914	Hymenoptera	Polistes dominulus	Pol d 2	Hyaluronidase	XM_015324236	XP_015179722	
+CAH69206	915	Poales	Triticum turgidum ssp durum	Tri tu 14	nsLipid transfer protein 1	JF799976	CAH69206	
+AGM32377	916	Blattodea	Coptotermes formosanus	Copt f 7	Tropomyosin	KC571878.1	AGM32377.1	
+AHF71027	917	Fagales	Betula verrucosa (Betula pendula)	Bet v 8	Glutathione-S-transferase	KF246508	AHF71027.1	
+A0A3Q0KAE3	918	Astigmata	Dermatophagoides pteronyssinus	Der p 37	Peritrophin-A domain containing protein	MG520330	AVD73319	A0A3Q0KAE3
+AVD53650	919	Ostreoida	Saccostrea glomerata	Sac g 1	Tropomyosin	MF996471	AVD53650.1	
+AVV30163	921	Lamiales	Olea europaea	Ole e 15	Cyclophilin	MG742363	AVV30163.1	
+E1U332	922	Lamiales	Olea europaea	Ole e 12	Isoflavone reductase	EU927297.1	ACL13551.1	E1U332
+E3SU11	923	Lamiales	Olea europaea	Ole e 13	Thaumatin	GU084174	ACZ57583.1	E3SU11
+XP_018816661	924	Fagales	Juglans regia	Jug r 8	ns-LTP-2	XP_018816661	XP_018816661.1	
+XP_019397705	925	Crocodylia	Crocodylus porosus	Cro p 1	beta-parvalbumin	MDVP01000047.1 GeneID:109314825	XP_019397705.1	
+XP_019400389	926	Crocodylia	Crocodylus porosus	Cro p 2	alpha-parvalbumin	MDVP01000050.1 GeneID:109316623	XP_019400389.1	
+F5A6E9	927	Decapoda	Procambarus clarkii	Pro c 8	Triosephosphate isomerase	HQ414580	AEB54655	F5A6E9
+C0LU07	928	Decapoda	Procambarus clarkii	Pro c 1	Tropomyosin	FJ769183	ACN87223	C0LU07
+H6VGI2	929	Decapoda	Procambarus clarkii	Pro c 2	Arginine kinase	JN828651	ACN87223	H6VGI2
+J7HCX7	930	Decapoda	Procambarus clarkii	Pro c 5	Myosin light chain 1	JX173714	AFP95338	J7HCX7
+H6VGI3	931	Decapoda	Sylla paramamosain	Scy p 2	Arginine kinase	JN828652	AFA45340	H6VGI3
+I2DDG2	932	Decapoda	Sylla paramamosain	Scy p 4	Sarcoplasmic Ca+ binding protein	JQ860424	AFJ80778	I2DDG2
+A0A1L5YRA2	933	Decapoda	Sylla paramamosain	Scy p 8	Triosephosphate isomerase	KX083344	APP94292	A0A1L5YRA2
+ALU66112	934	Astigmata	Dermatophagoides farinae	Der f 23	Peritrophin-like protein	KU166910	ALU66112.1	
+A0A4D6FZ45	935	Poales	Urochloa mutica	Uro m 1	Beta expansin	MH820172	QCB92083	A0A4D6FZ45
+C0HKC0	936	Myrtales	Punica granatum	Pun g 7	Gibberellin regulated protein			C0HKC0
+P93594	937	Poales	Triticum aestivum	Tri a 17	beta-amylase			P93594
+AAV90693	938	Diptera	Aedes albopictus	Aed al 3	30 kDa Salivary protein 		AAV90693	
+P18153	939	Diptera	Aedes albopictus	Aed al 2	D7 like salivary odorant binding protein			P18153
+Q7YT43	940	Diptera	Anopheles dirus B (A. cracens)	Ano d 2	Odorant binding protein		AAP68775	Q7YT43
+Q95V92	941	Diptera	Culex quinquefasciatus	Cul q 2	Salivary odorant binding protein		AAL16047	Q95V92
+Q95V93	942	Diptera	Culex quinquefasciatus	Cul q 3	Salivary odorant binding protein 2		AAL16046	Q95V93
+AVQ67919	943	Blattodea	Periplaneta americana	Per a 13	Glyceraldehyde-3-phosphate dehydrogenase	MG775273	AVQ67919.1	
+A0A516F3L2	944	Rosales	Prunus dulcis	Pru du 8	Antimicrobial seed storage protein 	MH922028	QDO73345	A0A516F3L2
+Submitted	945	Decapoda	Exopalaemon modestus	Exo m 1	Tropomyosin			Submitted
+A0A3G3LP85	946	Pleosporales	Ulocladium chartarum (Alternaria chartarum)	Ulo c 1	Alt a 1 homologue	MH716394	AYQ95688	A0A3G3LP85
+XP_007199020	947	Rosales	Prunus persica	Pru p 9	Pathogenesis-related protein PR-1		XP_007199020.1	
+CAX32965	948	Scombriformes	Scomber scombrus	Sco s 1	Parvalbumin	FM994926		CAX32965
+Q8MWR6	949	Astigmata	Dermatophagoides pteronyssinus	Der p 38	Bacteriolytic enzyme	AF409109.1	AAN02509.1	Q8MWR6
+QAT18637	950	Astigmata	Dermatophagoides pteronyssinus	Der p 25	Triosphosphate isomerase	MH618506	QAT18637.1	
+AUH28179	952	Fagales	Quercus mongolica	Que m 1	Pathogenesis protein 10	KY744741	AUH28179.1	
+Q9XF96	953	Rosales	Prunus armeniaca	Pru ar 5	acidic protein Hev b 5-like	AF134731.1	AAD32205.1	Q9XF96
+QEA69430	954	Scolopendromorpha	Scolopendra mutilans	Sco m 5	Venom allergen 5		QEA69430.1	
+XP_018521723	955	Perciformes	Lates calcarifer	Lat c 6	Collagen alpha	XM_018666207.1	XP_018521723.1	
+XP_014059932	956	Salmoniformes	Salmo salar	Sal s 6	Collagen alpha	XM_014204457.1	XP_014059932.1	
+QBF67841	957	Astigmata	Dermatophagoides farinae	Der f 39	Troponin C	MK419032	QBF67841.1	
+P13744	958	Cucurbitales	Cucurbita maxima	Cuc ma 4	11S globulin			P13744
+Q39649	959	Cucurbitales	Cucurbita maxima	Cuc ma 5	2S albumin	D16560		Q39649
+QBF67839	960	Astigmata	Dermatophagoides farinae	Der f 37	chitin binding protein	MK419030.1	QBF67839.1	
+XP_026772003	961	Siluriformes	Pangasianodon hypophthalmus	Pan h 1	Parvalbumin beta	XM_026916202.1	XP_026772003.1	
+AHF71021	962	Asterales	Artemisia absinthium	Art ab 1	Defensin-like protein with polyproline rich domain	KC700032.1	AHF71021.1	
+AHF71022	963	Asterales	Artemisia annua	Art an 1	Defensin-like protein with polyproline rich domain	KC700033.1	AHF71022.1	
+AHF71024	964	Asterales	Artemisia frigida	Art f 1	Defensin-like protein with polyproline rich domain	KC700035.1	AHF71024	
+AHF71025	965	Asterales	Artemisia ludoviciana	Art l 1	Defensin-like protein with polyproline rich domain	KC700036.1	AHF71025	
+AHF71026	966	Asterales	Artemisia tridentata	Art t 1	Defensin-like protein with polyproline rich domain	KC700037.1	AHF71026 	
+ABO84970	967	Astigmata	Dermatophagoides farinae	Der f 5	Low molecular weight IgE binding protein	MK814120.1	ABO84970	
+QAT18638	969	Astigmata	Dermatophagoides pteronyssinus	Der p 26	Myosin light-chain	MH618507	QAT18638	
+QAT18639	970	Astigmata	Dermatophagoides pteronyssinus	Der p 28	Heat Shock Protein 70	MH618508	QAT18639	
+QAT18640	971	Astigmata	Dermatophagoides pteronyssinus	Der p 29	Cyclophilin	MH618509	QAT18640	
+QAT18641	972	Astigmata	Dermatophagoides pteronyssinus	Der p 30	Ferritin	MH618510	QAT18641	
+QAT18642	973	Astigmata	Dermatophagoides pteronyssinus	Der p 31	Cofilin	MH618511	QAT18642	
+QAT18643	974	Astigmata	Dermatophagoides pteronyssinus	Der p 32	inorganic pyrophosphatase 	MH618512	QAT18643	
+QAT18644	975	Astigmata	Dermatophagoides pteronyssinus	Der p 33	alpha-tubulin	MH618513	QAT18644	
+P0DMB9	977	Hymenoptera	Vespa velutina	Vesp v 5	Venom allergen 5			P0DMB9
+XP_026777250	978	Siluriformes	Pangasianodon hypophthalmus	Pan h 2	beta-enolase	XM_026921449.1	XP_026777250.1	
+XP_026771637	979	Siluriformes	Pangasianodon hypophthalmus	Pan h 3	Aldolase A	XM_026915836.1	XP_026771637.1	
+XP_026781482	980	Siluriformes	Pangasianodon hypophthalmus	Pan h 4	Tropomyosin alpha	XM_026925681.1	XP_026781482	
+XP_026780620	981	Siluriformes	Pangasianodon hypophthalmus	Pan h 7	Creatin kinase	XM_026924819.1	XP_026780620.1	
+XP_026795867	982	Siluriformes	Pangasianodon hypophthalmus	Pan h 8	Triosephosphate isomerase	XM_026940066.1	XP_026795867.1	
+XP_026775867	983	Siluriformes	Pangasianodon hypophthalmus	Pan h 9	Pyruvate kinase PKM-like	XM_026920066.1	XP_026775867.1	
+XP_026774991	984	Siluriformes	Pangasianodon hypophthalmus	Pan h 10	L-lactate dehydrogenase	XM_026919190.1	XP_026774991.1	
+XP_026782721	985	Siluriformes	Pangasianodon hypophthalmus	Pan h 11	Glucose 6-phosphate isomerase	XM_026926920.1	XP_026782721.1	
+XP_026782131	986	Asterales	Parthenium hysterophorus	Par h 13	Glyceraldehyde-3-phosphate dehydrogenase	XM_026926330.1	XP_026782131.1	
+QGS84239	987	Ascaridida	Ascaris lumbricoides	Asc l 5		MN275230	QGS84239	
+XP_026782131	988	Siluriformes	Pangasianodon hypophthalmus	Pan h 13	Glyceraldehyde-3-phosphate dehydrogenase		XP_026782131.1	
+QEQ43417	989	Solanales	Solanum melongena	Sola m 1	Profilin	MK040462	QEQ43417	
+XP_019446786	991	Fabales	Lupinus angustifolius	Lup an 3	non-specific lipid transfer protein		XP_019446786.1	
+NP_001117128	992	Salmoniformes	Salmo salar	Sal s 4	Tropomyosin	NM_001123656.1	NP_001117128.1	
+ACH70914	993	Salmoniformes	Salmo salar	Sal s 7	Creatin kinase	BT043799.1	ACH70914.1	
+ACM09737	994	Salmoniformes	Salmo salar	Sal s 8	Triosephosphate isomerase	BT057865.1	ACM09737.1	
+ACH70965	995	Salmoniformes	Salmo salar	Sal s 9	Pyruvate kinase	BT043850.1	ACH70965.1	
+F1PHB6	996	Carnivora	Canis familiaris (C. lupus familiaris)	Can f 8	Cystatin	LT994967	SPO16019	F1PHB6
+C0HLL6	997	Cupressales	Cupressus sempervirens	Cup s 7	Gibberellin-regulated protein			C0HLL6
+Q0CJH1	998	Eurotiales	Aspergillus terreus	Asp t 36	Triosephosphate isomerase	XM_001215341.1	XP_001215341.1	Q0CJH1
+AGG10560	1000	Astigmata	Tyrophagus putrescentiae	Tyr p 8	Glutathione S transferase	JX255733	AGG10560	
+G1UH28	1001	Myrtales	Punica granatum	Pun g 14	Chitinase III			G1UH28
+XP_021820299	1002	Rosales	Prunus avium	Pru av 7	Gibberellin-regulated protein	XM_021964607	XP_021820299 	
+QHW05434	1004	Fabales	Cicer arietinum	Cic a 1	Late embryogenesis protein 4	MN276084	QHW05434.1	
+AII81930	1005	Blattodea	Blattella germanica	Bla g 12	Chitinase	KJ789158	AII81930	
+XP_030482568	1006	Rosales	Cannabis sativa	Can s 4	Oxygen evolving Enhancer Protein 2	XM_030626708.1	XP_030482568.1	
+QID21357	1007	Malpighiales	Populus nigra	Pop n 2	Profilin	MN832852	QID21357.1	
+C0HLQ0	1008	Cupressales	Juniperus ashei	Jun a 7	Gibberellin-regulated protein			C0HLQ0
+C0HLQ1	1009	Cupressales	Cryptomeria japonica	Cry j 7	Gibberellin-regulated protein			C0HLQ1
+C0HLL3	1010	Hymenoptera	Vespa velutina	Vesp v 1	Phospholipase A1			C0HLL3
+A0JNJ5	1011	Cetartiodactyla	Bos domesticus (Bos taurus)	Bos d 13	Myosin light chain	NM_001079578.1		A0JNJ5
+Q7M1F3	1012	Sapindales	Aesculus hippocastanum	Aes h 1	Defensin-like protein			Q7M1F3
