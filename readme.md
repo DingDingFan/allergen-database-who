@@ -20,7 +20,7 @@
 
   ```
 
-  After that you can detect poteintial allgen using your protomes with an aliger ,such as BLAST and so on .
+  After that you can detect potential allergen using your protomes with an aliger ,such as BLAST and so on .
 
   Good Luck!
 
