@@ -9,6 +9,8 @@
   perl bin/get.database.pl  > id.list.xls
 
   ``` 
+  fasta file is "simple.alleger.database.fasta.2020.5.25.fasta.zip" and the description for each protein were list here "finale.id.xls";
+
 
   when you get the id list, you can download from NCBI or Uniprot ,
 
